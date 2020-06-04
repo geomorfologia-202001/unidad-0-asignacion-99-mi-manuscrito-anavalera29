@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  13 MAY 2020 17:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  27 MAY 2020 18:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -676,109 +676,89 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 254.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 255.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 254
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 255
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 254
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 255
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 254
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 255
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 254
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 255
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-<Cocoloba_uvifera.jpg, id=47, 2321.67375pt x 2098.84125pt>
+<Cocoloba_uvifera.jpg, id=32, 2321.67375pt x 2098.84125pt>
 File: Cocoloba_uvifera.jpg Graphic file (type jpg)
 <use Cocoloba_uvifera.jpg>
-Package pdftex.def Info: Cocoloba_uvifera.jpg  used on input line 265.
-(pdftex.def)             Requested size: 469.74669pt x 424.66075pt.
-<mangle_rojo.png, id=48, 404.26031pt x 529.98pt>
+Package pdftex.def Info: Cocoloba_uvifera.jpg  used on input line 281.
+(pdftex.def)             Requested size: 249.78761pt x 225.81319pt.
+<mangle_rojo.png, id=33, 404.26031pt x 529.98pt>
 File: mangle_rojo.png Graphic file (type png)
 <use mangle_rojo.png>
-Package pdftex.def Info: mangle_rojo.png  used on input line 271.
-(pdftex.def)             Requested size: 404.26549pt x 529.98676pt.
-<mapa_bahia_najayo.png, id=49, 808.52063pt x 487.06969pt>
+Package pdftex.def Info: mangle_rojo.png  used on input line 287.
+(pdftex.def)             Requested size: 186.62819pt x 244.66713pt.
+<mapa_bahia_najayo.png, id=34, 808.52063pt x 487.06969pt>
 File: mapa_bahia_najayo.png Graphic file (type png)
 <use mapa_bahia_najayo.png>
-Package pdftex.def Info: mapa_bahia_najayo.png  used on input line 277.
+Package pdftex.def Info: mapa_bahia_najayo.png  used on input line 293.
 (pdftex.def)             Requested size: 469.75655pt x 282.99112pt.
 
-Overfull \hbox (11.13246pt too wide) in paragraph at lines 285--305
-\T1/ppl/m/n/10.95 er-en-cia de es-tu-dio imá-genes satél-i-tales de Land-sat 5,
- 7 y 8, de los años (2013,2014,2015,2016,2017,2018
+Overfull \hbox (0.82106pt too wide) in paragraph at lines 301--304
+[]\T1/ppl/m/n/10.95 Para cumplir los ob-je-tivos se em-plearon varias téc-ni-ca
+s, en-tre las que se in-cluyen fo-togrametría,
  []
 
-[2] [3 <./Cocoloba_uvifera.jpg>] [4 <./mangle_rojo.png>] [5 <./mapa_bahia_najay
-o.png>] [6]
-<transect_linea_R.png, id=79, 471.26062pt x 261.22594pt>
-File: transect_linea_R.png Graphic file (type png)
-<use transect_linea_R.png>
-Package pdftex.def Info: transect_linea_R.png  used on input line 451.
-(pdftex.def)             Requested size: 469.76378pt x 260.3962pt.
-<cambio_playa_Najayo.png, id=80, 505.89pt x 1445.4pt>
-File: cambio_playa_Najayo.png Graphic file (type png)
-<use cambio_playa_Najayo.png>
-Package pdftex.def Info: cambio_playa_Najayo.png  used on input line 458.
-(pdftex.def)             Requested size: 227.64839pt x 650.424pt.
+[2] [3 <./Cocoloba_uvifera.jpg> <./mangle_rojo.png>]
 
-LaTeX Warning: Float too large for page by 26.68182pt on input line 461.
+LaTeX Warning: Reference `muestras' on page 4 undefined on input line 323.
 
-<Beachrock.jpg, id=81, 4175.6pt x 3131.7pt>
-File: Beachrock.jpg Graphic file (type jpg)
-<use Beachrock.jpg>
-Package pdftex.def Info: Beachrock.jpg  used on input line 465.
-(pdftex.def)             Requested size: 469.70288pt x 352.27716pt.
-<Arroyo_Aguadulce.jpg, id=82, 4175.6pt x 3131.7pt>
-File: Arroyo_Aguadulce.jpg Graphic file (type jpg)
-<use Arroyo_Aguadulce.jpg>
-Package pdftex.def Info: Arroyo_Aguadulce.jpg  used on input line 471.
-(pdftex.def)             Requested size: 469.70288pt x 352.27716pt.
-[7 <./transect_linea_R.png (PNG copy)>] [8 <./cambio_playa_Najayo.png (PNG copy
-)>] [9 <./Beachrock.jpg>] [10 <./Arroyo_Aguadulce.jpg>]
-LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 487.
-[11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 571.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 571.
-(./manuscrito.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 571.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 571.
-Package rerunfilecheck Info: File `manuscrito.out' has not changed.
-(rerunfilecheck)             Checksum: 801573542BFB6FDEF17D3AC28872E929;910.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 571.
- ) 
+
+LaTeX Warning: Reference `clasto' on page 4 undefined on input line 332.
+
+
+LaTeX Warning: Reference `transect_linea' on page 4 undefined on input line 353
+.
+
+
+LaTeX Warning: Reference `cambio_transecto' on page 4 undefined on input line 3
+55.
+
+[4 <./mapa_bahia_najayo.png>]
+
+LaTeX Warning: File `áreas_muestras_colectadas.jpg' not found on input line 373
+.
+
+
+! Package pdftex.def Error: File `áreas_muestras_colectadas.jpg' not found: usi
+ng draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.373 ...egraphics{Ã¡reas_muestras_colectadas.jpg}
+                                                   
 Here is how much of TeX's memory you used:
- 10143 strings out of 492982
- 142150 string characters out of 6134896
- 215956 words of memory out of 5000000
- 13549 multiletter control sequences out of 15000+600000
- 25815 words of font info for 49 fonts, out of 8000000 for 9000
+ 10095 strings out of 492982
+ 141522 string characters out of 6134896
+ 215495 words of memory out of 5000000
+ 13533 multiletter control sequences out of 15000+600000
+ 24219 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,6n,31p,274b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palati
-no/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.p
-fb>
-Output written on manuscrito.pdf (11 pages, 16945926 bytes).
-PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
- 100 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36i,6n,31p,274b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+!  ==> Fatal error occurred, no output PDF file produced!
