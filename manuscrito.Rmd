@@ -15,6 +15,9 @@ author:
 - name: Ana Hilda Valera Arias
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
 abstract: "Mi resumen"
+
+La playa de Carlos Pinto presenta cambios en sus líneas de costa en diversos espacios y temporadas al año. Donde prevalece el proceso de progradación durante casi toda la época, siendo el segundo cuatrimestre el de mayor y el tercero de menor actividad.
+
 keywords: "dinámica costera, *beachrock*, manglar,erosión, playa"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
@@ -36,7 +39,7 @@ editor_options:
 
 El mar constituye un elemento fundamental del conjunto de componentes de la superficie terrestre, capaz de generar cambios en las líneas de costas, sean estas en una isla o continente de acuerdo con [@kokot2004vulnerabilidad]. Para @suarez1999delimitacion, el término costa puede aludir a la franja de tierra que bordea el mar o a la zona de contacto entre el medio marino y el medio terrestre. Teniendo en cuenta que la línea de costa puede variar en un instante, o con el paso de los años, ya sea por la dinámica litoral o por causa de fenomenos naturales, que pueden traer como posible concecuencia la erosión o regresión de la costa [@kokot2004erosion;@codignotto1997geomorfologia].
 
-Para @kokot2004erosion, la erosión costera es el resultado de un exceso de remoción de sedimentos respecto del aporte suministrado a un área determinada en un periodo específico. La misma abarca la emersión y sumersión de sedimentos en las orillas del mar o la playa, lo que mantiene en constante movimiento el límite exacto de la costa. Varios autores se han dedicado al análisis de línea de costa, usando como fuentes imágenes satélitales o fotografías áereas históricas. También se realizan observaciones y mediciones por un periodo de tiempo determinado que puedan dar respuesta a las causas de dicho cambio [@hernandez2008morfodinamica;@esquer2018modificacion;@cervantes2009variacion].
+Para @kokot2004erosion, la erosión costera es el resultado de un exceso de remoción de sedimentos respecto del aporte suministrado a un área determinada en un periodo específico. La misma abarca la emersión y sumersión de sedimentos en las orillas del mar o la playa, lo que mantiene en constante movimiento el límite exacto de la costa. Varios autores se han dedicado al análisis de línea de costa, usando como fuentes imágenes satélitales o fotografías áereas históricas. También se realizan observaciones y mediciones por un periodo de tiempo determinado que puedan dar respuesta a las causas de dicho cambio [@hernandez2008morfodinamica;@esquer2018modificacion;@cervantes2009evidencia].
 
 La costa como unidad geomorfológica se mantiene en constante estado de evolución. La importancia de conocer hacia dónde se desplaza más y qué forma ésta va adquiriendo, permite diferenciar el tipo de costa que, de acuerdo con @codignotto1997geomorfologia, puede clasificarse como: costa en progradación, costa estacionaria y costa en retrogradación. Del mismo modo, el autor hace énfasis en la importancia de comprender los factores que iniciden en este proceso y las causas que lo producen. Además de incluir posibles formaciones geoquimicas que se pueden producir en la zona producto de estos cambios, como es el caso de la roca de playa. 
 
@@ -48,9 +51,11 @@ De acuerdo con @camara1997republica, los litorales de la isla, se caracterizan p
 
 La playa de Najayo se encuentra ubicada en la sección del mismo nombre, perteneciente al municipio San Gregorio de Nigua, provincia San Cristóbal, al Sur de la República Dominicana. Fisiográficamente, se ubica en la llanura costera del Caribe, en las coordenadas aproximadas 18º17'40" latitud Norte y 70º06'02" longitud Oeste. De acuerdo al mapa geológico de la isla de Santo Domingo [@abad2007mapageonizao], se estima que la formación del relieve costero de Najayo data de la era Cenozoica periodo Cuaternario entre las época Eoceno-Mioceno, el mismo está compuesto por arena y gravas bioclásticas formando el cordón litoral, además de conglomerado, gravas, arenas de fondo de valle, calizas arrecifales, calciruditas y calcarenitas (ver figura \ref{mapageo50k}).
 
-![Vegetación dunas de playa\label{cocoloba}](Cocoloba_uvifera.jpg)
+Este estudio tiene como objetivo contribuir al conocimiento de la dinámica y geomorfología litoral domininicana, utilizando como estudio de caso la playa de Najayo. En particular, este estudio plantea identificar cambios en el trazado de la línea de costa, en qué lugares y época del año comúnmente se producen y a qué factores se atribuyen. Igualmente, analizar la granulometría de los depósitos de playa, así como explorar su variabilidad y proponer factores explicativos. Además, determinar las causas que originaron el *beachrock* situado en el centro de la playa. Finalmente, examinar el perfil de playa mediante técnicas fotogramétricas y navegación por satélite. La importancia del presente estudio consiste en que aporta nuevo conocimiento sobre la playa de Najayo y su dinámica, y porque tiene potencial para informar medidas de gestión de este importante recurso natural.   
 
-![Vegetación riveras de playa-río\label{manglerojo}](mangle_rojo.png)
+![Vegetación dunas de playa\label{cocoloba}](Cocoloba_uvifera.jpg){height=300px}
+
+![Manglar\label{manglerojo}](mangle_rojo.png){height=325px}
 
 ![Mapa geológico escala 1:50,000 (hoja Nizao)\label{mapageo50k}](mapa_bahia_najayo.png)
 
@@ -59,57 +64,82 @@ La playa de Najayo se encuentra ubicada en la sección del mismo nombre, pertene
 
 # Metodología
 
-Para el análisis de cambio en la línea costera de la playa Carlos Pinto, ubicada en el paraje del mismo nombre, zona Oeste de la sección Playa Najayo provincia San Cristóbal. Se utilizó como referencia de estudio imágenes satélitales de Landsat 5, 7 y 8, de los años (2013,2014,2015,2016,2017,2018 y 2019). Las cuales fueron delimitadas empleando el algoritmo de CoastSates que de acuerdo con @vos2019coastsat es un conjunto de herramientas que posee un software de código abierto escrito en Python que permite al usuario obtener series de tiempo, pueden ser estos de 30 o más años, en cuanto a la posición de una costa sin importar que sea de tipo arenosa y a nivel mundial. Dicho software toma como base de datos imágenes satélitales disponibles al público. También se colectaron arenas y gravas en varios punto de la costa, donde se llenó un formulario y se tomó las coordenadas geográficas de cada punto por medio de la aplicación ODK Collection descargada en un dispositivo móvil. Tales puntos fueron identificado por áreas con respecto al mar o la playa (Berma y Dunas de Playa). Los clastos colectados fueron medidos en dos ejes (ancho y largo), de tal modo los resultados obtenidos fueron expresados en milímetros (mm). De igual manera se realizaron fotografias mediante la cámara de un teléfono móvil a la vegetación y a la roca cercana a la zona de estudio.
+Para cumplir los objetivos se emplearon varias técnicas, entre las que se incluyen fotogrametría, navegación por satélite, teledetección, sistemas de información geográfica y estadística.
+
+Los cambios en el trazado de la línea de costa se analizaron utilizando  imágenes satelitales de Landsat 8 adquiridas entre los años 2013 y 2019. De cada escena se extrajo la línea de costa empleando el algoritmo CoastSat, el cual es un conjunto de herramientas escritas en Python, que permite al usuario obtener series de tiempo de la posición de la costa [@vos2019coastsat]. 
+
+Al delimitar las líneas de la costa, posteriormente se utilizó la aplicación [@qgis2015qgis] donde se seleccionaron los trazados de mayor precisión teniendo como referencia la línea más antigua (2013), dentro de dicho entorno gráfico se digitalizaron 25 transectos perpendiculares a la dirección general del diseño. Finalmente, tanto los transectos como las líneas fueron analizadas en R utilizando el script RCoastSat [@rcoastsat;@r2020r], el cual produjo resultados gráficos que facilitaron la interpretación.
+
+Asimismo, se colectaron muestras de sedimentos en siete puntos de muestreos, los cuáles fueron seleccionados en base a tres áreas con respecto al mar (canal,berma y duna de playa) e identificadas con un código de lugar (AV2021,AV2529,AV2020,AV2010,AV8920,AV2510,AV2907)(ver figura \ref{muestras}). Dichas muestras fueron depositadas en bolsas Whirl Pak de 23 cm L x 11.5 cm W, con 0.064 mm de grosor y 532 ml de capacidad. También, se tomaron las coordenadas de cada punto con el receptor GPS convencional del telefono personal y se midieron los clastos (en milímitros) presentes con una regla en dos ejes (largo y ancho). Estos datos fueron rellenados en un formulario electrónico para cada muestra, utilizando la aplicación ODK Collection [@singh2013mobile] descargada en el teléfono. Además, se extrajo por medio de un martillo un fragmento del *beachrock* (ver figura \ref{clasto}) al cuál se le aplicó ácido clorhídrico para determinar si contenía carbonato. Finalmente, para tener datos recientes del perfil de la playa, se realizó un vuelo de dron y se tomaron fotografias de la zona.
 
 
 \ldots
 
 # Resultados
 
-Los datos generados mediante el algoritmo mensionado con anterioridad, para la recreación de línea costera y las muestras de sedimentos colectadas en varios puntos de muestreo, así como la vegetación y las rocas expuestas en toda la zona costera. Permite identificar y analizar el tipo de costa que en la actualidad la playa de Carlos Pinto presenta y por consiguiente, el modelo de material sedimentario predominante. Además de determinar el prototipo de vegetación más abundante y como está distribuida la roca de playa (*beachrock*) en el lugar.
+Los resultados generados se agrupan en tres subconjuntos:compilación de trazados en la líneas de costa, colecta de sedimentos y las formaciones de rocas en el centro de la playa, además de la restitución fotométrica para la obtención de información tridimensional. 
+
+## Cambio de líneas de costa
+
+Los trazados de las líneas de costa y los 25 transectos permitieron reconstruir una serie de temporal de la dinámica del litoral de Najayo (ver figura \ref{transecto}). Estos transectos muestran un esquema del cambio de la costa por trimestre de cada año (ver figura \ref{cambio}). También se identificaron los sectores de la playa más susceptibles al cambio y las épocas del año de mayor actividad (ver tabla de resultados\ref{resultados}). De manera global, los cambios más prominentes ocurrieron en el tercer cuatrimestre (septiembre-diciembre) de cada año, en los que comúnmente, predominó la progradación en casi todos los años. Por el contrario, durante los meses de junio a agosto, se registró una dinámica predominante de retrogradación.
+
+### Análisis granulométrico
+
+El tamaño de los sedimentos presentó variaciones en cada punto de muestreo(ver tabla\ref{estadistico}), donde se resumen los estadístico y tamaños de muestra en cada una de la localidad colectada (ver tabla\ref{grafico} y tabla\ref{lugar}). La playa de los Pescadores registró los valores extremos, tanto de ancho como de largo. Por otra parte, en las muestras de la playa de Carlos Pinto, los clastos fueron más largo en promedio que en la otra playa.
+
+En los diagramas de caja y en los histogramas se observa que las muestras sesgos hacia la derecha o positivo en ambas playas. Adicionalmente, se identificó la distribución por cuartiles de las mediciones según la playa (ver gráfico playa\ref{playa}). En la playa los Pescadores el 25% más pequeño de los clastos alcanzó 10 mm de largo y 7 mm de ancho, la mediana (el valor que mide la muestra en dos partes iguales) fue de 13 mm y 10 mm para el largo y el ancho respectivamente, mientras que el tercer cuartil, es decir el  75% más pequeño de los clastos medidos tenía 15 mm o menos de largo y 12 mm de ancho. En tanto que, en Carlos Pinto la mediana fue de 15 mm y 9 mm de largo y ancho respectivamente y el primer cuartil de aprox. de 13 mm de largo y 8 mm de largo
+
+<!-- Asimismo, se pudo observar que en ambas playas el pico de las medidas de los clastos están entre los 10 y 15 mm de largo. Mientras que, la de los pescadores muestra valores atípicos y Carlos Pinto no. Además de que, los sedimentos no están distrinuidos uniformemente en dichos espacios (ver gráfico\ref{largo}). En cuanto al ancho, los Pescadores agrupa la mayor cantidad de tamaño entre 5 a 10 mm y la distribución es homogénea . En tanto que, en Carlos Pinto la porción principal se encuentra entre los 10 y 15 mm y estan ordenados irregularmente (ver gráfico \ref{ancho}). -->
+
+#### Rocas de playa
+
+La playa de Carlos pinto presenta rocas emergidas y submergidas en el centro de la costa. Las mismas no exhiben elevadas altura, excepto las que se encuentran cerca a los pequeños acantilados. Además, muestra dos drenaje de agua continental que desembocan en el mar. 
 
 
-Cambio línea de costa
+![Áreas de muestras colectadas\label{muestras}](áreas_muestras_colectadas.jpg)
 
-Por medio de la imágenes satélitales de landsat 5,7 y 8, entre los años 2013 hasta el 2019, se hicieron 25 transectos en toda la costa de la playa de Najayo (ver figura \ref{transect_linea}), con la finalidad de efectuar un análisis entre todos. El objetivo, determinar si la costa esta padeciendo un proceso de retrogradación, progradación o es estacionaria con el pasar del tiempo, a parte de observar cuál es la zona que más cambio ha experimentado en este proceso (ver figura \ref{cambio_transecto}).
+![Composición de la roca de playa\label{clasto}](Clasto_beachrock.jpg)
 
-La figura 4 muestra los 25 transectos realizados sobre las diferentes líneas, las mismas hacen alusión al límite entre el espacio terrestre y el espacio acuático en un determinado periodo de año. En tanto que la figura 5 muestra los diferentes transectos haciendo énfasis en el tipo de forma que a adquirido el litoral en un tiempo específico (cada 3 meses).
+![Transectos sobre las líneas costera de playa_Najayo\label{transecto}](transect_linea_R.png)
 
-De acuerdo a la figua 5 se puede observar que en el año 2013, el primer y segundo trimestre el mar retrogradó poco menos de 20 metros, con excepción en los transectos número 1,2,7,8,10,15,23 los cuales no muestran cambio significativos en el desplazamiento de las líneas y el transecto número 14 donde el mar obtuvo una ligera agradación. En cuanto el tercer y cuarto trimestre muestra una notable agradación de parte de la tierra firme hacia el mar, como es el caso en los transectos 1,6,14,15,16,17,18,19 y 25, mientras que los demás no obtuvieron alteración importante. 
+La línea de color negro representa el trazado de referencia, el cual fue extraído de la imágen satélital del año 2013. Los transectos de color amarillo representan la superficie terrestre en tanto que los de azul el mar.
 
-Mientras que en el año 2014, en el primer trimestre la tierra agradó poco menos de 20 m en los transectos 1,6,14,15,19 y 25 en comparación con los demás que su variación fue mínimo o nulo. En el segundo trimestre el mar retrogadó igual o poco menos de 20 m en los transectos 17,18,20,22,24 y 25, en tanto que en los restante la variabilidad fue exiguo. En cuanto, en el tercer trimestre la tierra prosperó hacia el mar, de acuerdo a los transectos 1,14,16,18,19 y 25 poco o igual a 20 m., entretanto en los otros transectos la transformación fue insignificante. Mientras tanto en el cuarto trimestre la tierra produjo un avance hacia el mar en los transectos 1,14,15,18,19 y 25 de 20 m o menos, en relación con los damás que sus alteraciones fueron pequeñas o inexistentes.
-
-Para el año 2015, el primer trimestre presenta una marcada agradación de parte de la tierra en los transectos 1,16,18,19 y 25 a una distancia igual o menor de 20 m., mientras que en los demás punto la vicisitud es muy baja o nula. En el segundo trimestre la tierra avanzó hacia el mar en los transectos 1,5,13,17,18 y 25 poco menos de 20 M, entre tanto, los demás transectos presentan variaciones insignificante o ninguna. En cuanto que, en el tercer trimestre el mar obtuvo una retrogradación relevante, poco menos de 20 m en los transectos 16,17,19,24 y 25, en tanto que en los otros puntos el cambio fue mínimo. En el cuarto trimestre la alteración presentada por los transectos en la línea de costa se encuentran en los punto 1,17 y 25  los cuales tienen una distancia poco menos de 20 m, mientras que los transectos restantes poseen muy bajos o ninguna variabilidad.
-
-En el primer trimestre del año 2016, sólo los transectos 1 y 25 muestra una ligera agradación de la tierra hacia el mar de igual o menos a los 20 m, en tanto que los otros no muestran cambios importantes. Para el segundo trimestre los transectos muestran una variedad muy expresiva en los números 3,4,5,16,17,19,20,21,22,24 y 25 con un espacio de poco o igual a 20 m., en cuanto el avance del mar hacia tierra firme, mientras que los demás transectos no presentan cambios relevantes. De acuerdo al tercer trimestre los cambios fueron muy mínimo o nulo. Por ejemplo, los transectos 1,5,13 y 20 son los que presenta una pequeña variabilidad de costa. Donde la tierra firme prospera al mar a una distancia menor a los 20 m. En tanto que el cuarto trimestre los transectos 1,13,15,17 y 25 muestran una transición de parte de la tierra hacia el mar de poco menos de 20 m, en comparación con los demás puntos, que no presentan cambios sustanciales.
-
-En el año 2017, el primer trimestre presenta un pequeño cambio en los transectos, donde se observa que la tierra progresa hacia al mar a una distancia de 20 m o menos en los transectos 1,13,14,15 y 16, mientras que en los demas transectos la diferencia es nula. En el sugundo trimestre los distinto lugares en la costa presentan ligera transición de parte del mar hacia la tierra en los puntos 19,20 y 24, en relación a los otros que no presentan cambios significativos. Mientras tanto el tercer trimestre no presenta variación considerable entre los diferentes transectos. En cuanto al cuarto trimestre los punto 15,17 y 25 alumbran una variabilidad mínima en la agradación realizada por la tierra hacia al mar, por consiguiente los demás espacio restantes no presentan variación en la costa.
-
-El año 2018 el primer trimestre presenta transectos con alteración valiosa en la costa, los transectos 1 y 25 muestran una agradación de la tierra de poco menos de 20 m con relación al mar, mientras que el transecto 16 presenta una retrogradación de parte del mar hacia la tierra de poco menos de 20 m, en tanto los demás punto no muestran cambio importante. El segundo trimestre presenta transformación en la costa de acuerdo a los transectos, donde el mar presenta una retrogradación en los puntos 15,16,17,18,19,20,24 y 25 con distancia igual o menor a 20 m, mientras tanto en los demás punto la variación es mínima o inexistente. En el tercer trimestre solo los transectos 15,19 y 20 muestran ligeras transiciones menores a 20 m., en tanto los otros no presentan alteraciones valiosas. De igual forma el cuarto trimestre prenta cambio en el transecto 1, donde la tierra avanza hacia el mar poco menos de 20 m y el punto 24 donde el mar prospera hacia tierra firme poco menos de 20 m., entretanto los demás no presentan algún traslado en la línea de costa.
-
-Por último el año 2019, donde el primer trimestre muestran variedad en los transectos sobre la línea de costa en los números 1,17 y 25 en los cuales la tierra avanza hacia el mar poco menos de 20 m, mientras que en los punto 16,18,19 y 24 existe una retrogradación de parte del mar hacia la tierra poco menos de 20 m., en tanto que los demás no muestran cambio considerables. El segundo trimestre muestra visicitudes notables entres los transectos con relación a la línea de costa. Los puntos 4,5,16,17,19,21,24 y 25 presentan un avance del mar hacia la tierra de menor o igual a 20 m., por otra parte el transecto 1 muestra una agradación de la tierra hacia el mar poco menos de 20 m, mientras tanto los demás no muestran variaciones significativas. En el tercer y cuarto trimestre no existe una alteración considerable en los transectos sobre las líneas costera. 
-
-
- Roca de playa (*beachrock*)
-
-La playa de Najayo presenta un pequeño acantilado en medio de la costa, a parte de exhibir afloramiento de rocas en algunos lugares, sean estos a orrillas o dentro del mar (ver figura \ref{beachrock}), siendo el espacio visiblemente más afectado la parte central de la costa.
-
-
-Vegetación
-
-La vegetación en la duna de la playa de Carlos Pinto predomina la cocoloba_uvífera y la ipomoea_pescabrea. En tanto que, en la desembocadura del arroyo agua dulce (ver figura \ref{arroyo_aguadulce}) existe un bosque tipo manglar en el cual se destaca el mangle blanco, mientras que el acantilado muestra una flora muy heterogéna, donde prevalece el noni, almácigo, eugenia, mara entre otros. 
-
-![Transectos sobre las líneas costera de playa_Najayo\label{transect_linea}](transect_linea_R.png)
-
-![Transectos sobre las líneas costera de playa_Najayo\label{cambio_transecto}](cambio_playa_Najayo.png)
+![Transectos sobre las líneas costera de playa_Najayo\label{cambio}](cambio_playa_Najayo.png)
 
 ![Afloramiento de rocas playa_Najayo\label{beachrock}](Beachrock.jpg)
 
 ![Desembocadura arroyo Agua Dulce Playa_Carlos_Pinto\label{arroyo_aguadulce}](Arroyo_Aguadulce.jpg)
 
+![Tabla de resultados cambios enlíneas de costa\label{resultados}](resultados_cambio_lineas.png)
+
+![Análisis estadísticos de las muestras\label{estadistico}](resultados_estadisticos.png)
+
+![Gráfico de las muestras\label{grafico}](muestra_graf.png)
+
+
+![Resultados estadísticos de las playas \label{lugar}](tabla_lugar.png)
+
+![Gráfico de las muestras por área de estudio\label{grafplaya}](graf_playas.png)
+
+![Gráfico de largo\label{largo}](hist_largo.png)
+
+![Gráfico de ancho\label{ancho}](hist_ancho.png)
+
 \ldots
 
 # Discusión
+
+## Cambio en líneas de costa
+
+Los transectos sobre las diferentes líneas de costas muestran posibles cambios del litoral en áreas espcíficas. Posiblemente estas variaciones sean producto en su monento del incremento en el nivel del mar, a concecuencia de fenomenos atmosféricos (tormentas/huracanes) ó por el deshielo de los polos por causa del cambio climático. El mes de junio en todos los años presentó cambios significativos en todos los trazados, donde el proceso de retrogradción fue predominante provablemente a concecuencia de el inicio de la temporada de huracanes en el océano atlántico. Esto atribuyendo que el trimestre de junio-septiembre del 2016, fue el que más variación mostró en cuanto al límite de costas, llegando a superar los 20 m de distancia. Posiblemente se deba al huracán Mathews (catégoria tres) el cual se encontraba al suroeste de Santo Domingo.
+
+### Análisis granulométrico
+
+Los sedimentos de la playa de Carlos pinto se encuentran distribuidos de manera irregular en toda la costa, esto posiblemente se deba a la erosión
+
+#### *Beachrock*
+
+Las rocas de la playa de Carlos Pinto (Najayo) de acuerdo a su ubicación sobre el paso de una cañada que desemboca en el mar. Posiblemente se formó por la compactación de la arena con el carbonato de calcio, es factible que en este proceso de fosilización el agua continental circulara de manera superficial por rocas calizas arrecifales. El *beachrock* presenta rocas alteradas de basaltos, fósiles y tonalidas las cuales provablemente hallan emanado del continente y eventualmente llevadas hasta ese lugar por la deriva continental, por la cañada que desemboca en el mar o por un arroyo/río que tal vez hoy ya no transita en el lugar.
 
 # Agradecimientos
 
