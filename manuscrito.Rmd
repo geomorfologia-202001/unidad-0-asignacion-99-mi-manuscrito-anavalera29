@@ -14,10 +14,7 @@ title: |
 author:
 - name: Ana Hilda Valera Arias
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
-abstract: "Mi resumen"
-
-La playa de Carlos Pinto presenta cambios en sus líneas de costa en diversos espacios y temporadas al año. Donde prevalece el proceso de progradación durante casi toda la época, siendo el segundo cuatrimestre el de mayor y el tercero de menor actividad.
-
+abstract: "De acuerdo a los cambios observados en las líneas de costa de la playa de Najayo durante el periodo de estudio, comparados y analizados con imágenes satelitales de años anteriores, se determinó qué tal litoral se encuentra en un proceso de retrogradación casi todo el año. Siendo, este fenómeno más visible durante los meses junio-septiembre, ésto comparado con los demás, donde presentaron una ligera progradación desde octubre hasta abril de poco menos de 20 m. En tal sentido, se puede atribuir dichas observaciones, a los fenómenos naturales que afectan a la región (temporada ciclónica), motivo de que durante esa temporada los cambios fueron relevantes. Además, la Playa de Carlos Pinto presentó mayor variación en sus líneas y un perfil cóncavo. Posiblemente, por la dirección de los vientos (este-oeste) o por la corriente marina que se encarga de erosionar ese espacio. También, por encontrarse en su territorio la desembocadura del arroyo Agua Dulce, el cuál es de curso temporero y se abre paso con facilidad hacia el mar en tiempo de lluvia. En tanto que, sus sedimentos tienen medidas promediadas entre los 9 a 15 mm de largo y 8 a 13 mm de ancho. Por último, posee rocas que descienden hacia el mar, se cree que fueron originada por la compactación de la arena con el carbonato de calcio."
 keywords: "dinámica costera, *beachrock*, manglar,erosión, playa"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
@@ -55,14 +52,16 @@ Este estudio tiene como objetivo contribuir al conocimiento de la dinámica y ge
 
 ![Vegetación dunas de playa\label{cocoloba}](Cocoloba_uvifera.jpg){height=300px}
 
-![Manglar\label{manglerojo}](mangle_rojo.png){height=325px}
+![Manglar\label{manglerojo}](mangle_rojo.png){height=350px}
 
 ![Mapa geológico escala 1:50,000 (hoja Nizao)\label{mapageo50k}](mapa_bahia_najayo.png)
 
 
 \ldots
 
+
 # Metodología
+
 
 Para cumplir los objetivos se emplearon varias técnicas, entre las que se incluyen fotogrametría, navegación por satélite, teledetección, sistemas de información geográfica y estadística.
 
@@ -75,79 +74,241 @@ Asimismo, se colectaron muestras de sedimentos en siete puntos de muestreos, los
 
 \ldots
 
+
 # Resultados
+
 
 Los resultados generados se agrupan en tres subconjuntos:compilación de trazados en la líneas de costa, colecta de sedimentos y las formaciones de rocas en el centro de la playa, además de la restitución fotométrica para la obtención de información tridimensional. 
 
+
 ## Cambio de líneas de costa
+
 
 Los trazados de las líneas de costa y los 25 transectos permitieron reconstruir una serie de temporal de la dinámica del litoral de Najayo (ver figura \ref{transecto}). Estos transectos muestran un esquema del cambio de la costa por trimestre de cada año (ver figura \ref{cambio}). También se identificaron los sectores de la playa más susceptibles al cambio y las épocas del año de mayor actividad (ver tabla de resultados\ref{resultados}). De manera global, los cambios más prominentes ocurrieron en el tercer cuatrimestre (septiembre-diciembre) de cada año, en los que comúnmente, predominó la progradación en casi todos los años. Por el contrario, durante los meses de junio a agosto, se registró una dinámica predominante de retrogradación.
 
+
+Con respecto a, el perfil de playa las pendientes generadas de manera dimensional presentaron la inclinación y a escala diferentes de varios transectos a medida en que avanza al extremo occidental de la misma. Ejemplos, de estos son los puntos desde el 11 hasta el 20 qué es donde la playa inició a obtener alturas relevantes. De manera que, el 13 alcanzó un declive de poco más de 0.2 m y medio. Mientras que, en el 18 los cambios mostraron valores diferente, pero ninguno menores a los 0.10 m y medio (ver figura \ref{dimensional}). De igual manera, al emplearle una misma escala existió una leve variación donde el 12 y 13 reflejaron cambios superiores a los 0.2 m (ver figura \ref{escala}). Por otra parte, en los puntos 32 y 33 la pendiente alcanzó un nivel superior con escalas diferentes y su forma es más pronunciada (ver figura \ref{pendiente}). En tanto que, con una misma el 33 y 37 proyectaron una variación ligera de poco menos de 1 m (ver figura \ref{consistente}). En relación con, el índice de concavidad la forma de la pendiente concuerda en todos los transectos desde el 11 hasta el 40, aunque en algunos casos uno menor que otro, excepto el 20 y 35 que presentó una forma diferente (ver figura \ref{concavidad} y (ver figura \ref{indice}.
+
+
 ### Análisis granulométrico
 
-El tamaño de los sedimentos presentó variaciones en cada punto de muestreo(ver tabla\ref{estadistico}), donde se resumen los estadístico y tamaños de muestra en cada una de la localidad colectada (ver tabla\ref{grafico} y tabla\ref{lugar}). La playa de los Pescadores registró los valores extremos, tanto de ancho como de largo. Por otra parte, en las muestras de la playa de Carlos Pinto, los clastos fueron más largo en promedio que en la otra playa.
 
-En los diagramas de caja y en los histogramas se observa que las muestras sesgos hacia la derecha o positivo en ambas playas. Adicionalmente, se identificó la distribución por cuartiles de las mediciones según la playa (ver gráfico playa\ref{playa}). En la playa los Pescadores el 25% más pequeño de los clastos alcanzó 10 mm de largo y 7 mm de ancho, la mediana (el valor que mide la muestra en dos partes iguales) fue de 13 mm y 10 mm para el largo y el ancho respectivamente, mientras que el tercer cuartil, es decir el  75% más pequeño de los clastos medidos tenía 15 mm o menos de largo y 12 mm de ancho. En tanto que, en Carlos Pinto la mediana fue de 15 mm y 9 mm de largo y ancho respectivamente y el primer cuartil de aprox. de 13 mm de largo y 8 mm de largo
+El tamaño de los sedimentos presentó variaciones en cada punto de muestreo (ver tabla\ref{estadistico}), donde se resumen los estadístico y tamaños de muestra en cada una de las localidades de colecta (ver tabla\ref{grafico} y tabla\ref{lugar}). La playa de los Pescadores registró los valores extremos, tanto de ancho como de largo de los clastos. Por otra parte, en las muestras de Carlos Pinto, los clastos fueron más largo en promedio que en la otra playa.
 
-<!-- Asimismo, se pudo observar que en ambas playas el pico de las medidas de los clastos están entre los 10 y 15 mm de largo. Mientras que, la de los pescadores muestra valores atípicos y Carlos Pinto no. Además de que, los sedimentos no están distrinuidos uniformemente en dichos espacios (ver gráfico\ref{largo}). En cuanto al ancho, los Pescadores agrupa la mayor cantidad de tamaño entre 5 a 10 mm y la distribución es homogénea . En tanto que, en Carlos Pinto la porción principal se encuentra entre los 10 y 15 mm y estan ordenados irregularmente (ver gráfico \ref{ancho}). -->
+En los diagramas de caja y en los histogramas se observa que las muestras presentan sesgos hacia la derecha o positivo en ambas playas (ver gráfico largo\ref{largo} y ancho\ref{ancho}). Adicionalmente, se identificó la distribución por cuartiles de las mediciones según playa (ver gráfico playa\ref{playa}). En la playa los Pescadores el 25% más pequeño de los clastos alcanzó 10 mm de largo y 7 mm de ancho, la mediana (el valor que mide la muestra en dos partes iguales) fue de 13 mm y 10 mm para el largo y el ancho respectivamente, mientras que el tercer cuartil, es decir el  75% más pequeño de los clastos medidos tenía 15 mm o menos de largo y 12 mm de ancho. En tanto que, en Carlos Pinto la mediana fue de 15 mm y 9 mm de largo y ancho respectivamente y el primer cuartil de 13 mm de largo y 8 mm de largo de aproximación.
+
+
 
 #### Rocas de playa
 
-La playa de Carlos pinto presenta rocas emergidas y submergidas en el centro de la costa. Las mismas no exhiben elevadas altura, excepto las que se encuentran cerca a los pequeños acantilados. Además, muestra dos drenaje de agua continental que desembocan en el mar. 
+
+Las rocas emergidas y submergidas en la playa de Carlos Pinto se ubican en el centro de la costa. Las mismas no exhiben elevadas altura, excepto las que se encuentran cerca a los pequeños acantilados. Estas se extienden desde la superficie terrestre hacia el mar, principalmente desde el desagüe de dos drenaje de agua continental.
+ 
 
 
-![Áreas de muestras colectadas\label{muestras}](áreas_muestras_colectadas.jpg)
+![Áreas de muestras colectadas\label{muestras}](areas_muestras_colectadas.jpg){height=250px}
 
-![Composición de la roca de playa\label{clasto}](Clasto_beachrock.jpg)
+![Composición de la roca de playa\label{clasto}](Clasto_beachrock.jpg){height=250px}
 
-![Transectos sobre las líneas costera de playa_Najayo\label{transecto}](transect_linea_R.png)
-
+![Transectos sobre las líneas costera de playa_Najayo\label{transecto}](transect_linea_R.png){height=350px}
 La línea de color negro representa el trazado de referencia, el cual fue extraído de la imágen satélital del año 2013. Los transectos de color amarillo representan la superficie terrestre en tanto que los de azul el mar.
 
-![Transectos sobre las líneas costera de playa_Najayo\label{cambio}](cambio_playa_Najayo.png)
+![Transectos sobre las líneas costera de playa_Najayo\label{cambio}](cambio_playa_Najayo.png){height=300px}
 
-![Afloramiento de rocas playa_Najayo\label{beachrock}](Beachrock.jpg)
+![Perfil dimensional de la playa\label{dimensional}](dimension_real.png){height=250px}
 
-![Desembocadura arroyo Agua Dulce Playa_Carlos_Pinto\label{arroyo_aguadulce}](Arroyo_Aguadulce.jpg)
+![Perfil de playa con una misma escala\label{escala}](escala_diferente_consistente.png){height=250px}
 
-![Tabla de resultados cambios enlíneas de costa\label{resultados}](resultados_cambio_lineas.png)
+![Perfil de playa con varias escalas\label{pendiente}](dimension_31-40.png){height=250px}
 
-![Análisis estadísticos de las muestras\label{estadistico}](resultados_estadisticos.png)
+![Perfil de playa con una misma escala\label{consistente}](escala_diferente_consistente_31-40.png){height=250px}
 
-![Gráfico de las muestras\label{grafico}](muestra_graf.png)
+![Perfil con índice de concavidad\label{concavidad}](indice_concavidad.png){height=250px}
+
+![Perfil con índice de concavidad\label{indice}](indice_concavidad_31-40.png){height=250px}
+
+![Afloramiento de rocas playa_Najayo\label{beachrock}](Beachrock.jpg){height=250px}
+
+![Desembocadura arroyo Agua Dulce Playa_Carlos_Pinto\label{arroyo_aguadulce}](Arroyo_Aguadulce.jpg){height=250px}
+
+![Resultados cambios en la líneas de costa\label{resultados}](resultados_cambio_lineas.png){height=250px}
+
+![Análisis estadísticos de las muestras\label{estadistico}](resultados_estadisticos.png){height=250px}
+
+![Diagrama de las muestras\label{grafico}](muestra_graf.png)
 
 
 ![Resultados estadísticos de las playas \label{lugar}](tabla_lugar.png)
 
-![Gráfico de las muestras por área de estudio\label{grafplaya}](graf_playas.png)
+![Gráfico de las muestras por área de estudio\label{grafplaya}](diagrama.png)
 
-![Gráfico de largo\label{largo}](hist_largo.png)
+![Histograma de largo\label{largo}](largo_hist.png)
 
-![Gráfico de ancho\label{ancho}](hist_ancho.png)
+![Histograma de ancho\label{ancho}](ancho_hist.png)
 
 \ldots
 
 # Discusión
 
+
 ## Cambio en líneas de costa
 
-Los transectos sobre las diferentes líneas de costas muestran posibles cambios del litoral en áreas espcíficas. Posiblemente estas variaciones sean producto en su monento del incremento en el nivel del mar, a concecuencia de fenomenos atmosféricos (tormentas/huracanes) ó por el deshielo de los polos por causa del cambio climático. El mes de junio en todos los años presentó cambios significativos en todos los trazados, donde el proceso de retrogradción fue predominante provablemente a concecuencia de el inicio de la temporada de huracanes en el océano atlántico. Esto atribuyendo que el trimestre de junio-septiembre del 2016, fue el que más variación mostró en cuanto al límite de costas, llegando a superar los 20 m de distancia. Posiblemente se deba al huracán Mathews (catégoria tres) el cual se encontraba al suroeste de Santo Domingo.
+
+Los cambios presentados en las líneas de costa y en épocas específicas, provablemente sean productos en su momento del incremento en el nivel del mar, a concecuencia de fenomenos atmosféricos (tormentas/huracanes). De cuerdo con @dominguez2004tasas, estos fenomenos originan fuertes oleajes que modifican la playa en un periodo determinado. Esto, haciendo referencia de que el trimestre junio-septiembre de todos los años presentó variaciones en todos los trazados, donde predominó la retrogradación. Exceptuando, la temporada del 2016 que fue la que más cambio mostró superando los 20 m de distancia, posiblemetente por el paso del huracán Mathews (catégoria tres) el cuál se encontraba al suroeste de Santo Domingo de acuerdo a un periodico de circulación nacional. Además, esos cambios fueron relevantes en áreas específicas de la costa, por ejemplo, la Playa de Carlos Pinto fue más propensa a mostrar alteraciones, quizas por la dirección de los vientos y la corriente marina que van erosionando la morfología del litoral. Según @dominguez2004tasas, el viento y el oleaje provocan concentración o disipan energía, los cuales determinarán mayor o menor erosión o incluso sedimentación.
+
+Por otra parte, la playa presentó un perfil cóncavo donde la pendiente fue tomando altura a medida que se acercaba a la desembocadora del arroyo Agua Dulce al extremo occidental. Esta características se le puede atribuir a la erosión a causa del oleaje, el viento y la corriente marina que de acuerdo con [@lorenzo2003evolucion], la deriva litoral es la causante de este proceso y el mismo puede ser diferente durante cada estación del año. También, por la carga de sedimento de parte del arroyo, razón de que en esta zona la inclinación fue mayor.   
+
 
 ### Análisis granulométrico
 
-Los sedimentos de la playa de Carlos pinto se encuentran distribuidos de manera irregular en toda la costa, esto posiblemente se deba a la erosión
+ 
+ Las variaciones en los tamaños presentados de los depósitos de sedimentos en la playa de Najayo provablemente sean inusuales. En el caso de, la playa los Pescadores que posee los valores más extremos en cuanto a largo y ancho, potencialmente se deba a la dinámica de transporte de sedimento existente en la zona. Puesto que, el arroyo Rolón mantiene su recorrido (de forma lenta) hacia el mar, sedimentando la costa constantemente. En relación con, Carlos Pinto que obtuvo el promedio más largo y ancho, el cuál se le pude atribuir al flujo de material arrastrado por el arroyo Agua Dulce en su tiempo de caudal. De acuerdo con @kokot2004erosion el cuál plantea que las aguas continentales son las principales fuente de aportación de sedimentos en la costa y los mismos son originarios de periodos donde las condiciones climáticas eran diferentes de las actuales. De ahí, las diferencias en los clastos, además de tener encuenta el tamaño de la cuenca, que en el caso de Agua Dulce es de menor dimensión que el Rolón. Por otra parte, se deba a fenómenos naturales, puesto que, en ese tiempo el mar excede su límite y lanza escombros en toda la ensenada.
+
 
 #### *Beachrock*
 
-Las rocas de la playa de Carlos Pinto (Najayo) de acuerdo a su ubicación sobre el paso de una cañada que desemboca en el mar. Posiblemente se formó por la compactación de la arena con el carbonato de calcio, es factible que en este proceso de fosilización el agua continental circulara de manera superficial por rocas calizas arrecifales. El *beachrock* presenta rocas alteradas de basaltos, fósiles y tonalidas las cuales provablemente hallan emanado del continente y eventualmente llevadas hasta ese lugar por la deriva continental, por la cañada que desemboca en el mar o por un arroyo/río que tal vez hoy ya no transita en el lugar.
+
+Las rocas de playa se encuentran ubicadas en el espacio por el cuál cañadas vierten sus aguas al mar, extendiéndose hacia el centro de la costa. Posiblemente, éstas se formaron por la compactación de la arena con el carbonato de calcio, es factible que en éste proceso de fosilización el agua continental circulara de manera superficial por rocas calizas arrecifales. El *beachrock* presenta rocas alteradas de basaltos, fósiles y tonalidas las cuales provablemente hallan emanado del continente y eventualmente llevadas hasta ese lugar por la deriva continental, por la cañada que desemboca en el mar o por un arroyo/río que tal vez hoy ya no transita en el lugar.
 
 # Agradecimientos
+
+
+Expresamos nuestro agradecimiento a la Universidad Autónoma de Santo Domingo (UASD), en especial a la escuela de geografía por su deseo de formar profesionales capaces de desarrollar habilidades críticas fomentada en la investigación. También, al profesor José Ramón Martínez Batlle por facilitar todas las herramientas de obteción de datos, por su siempre disposición, ayuda e insistir en la importancia de los estudios de investigación científica para la generación de conocimiento y desarrollo de los pueblos. Por último, a Carolaine Pérez Ureña por unirse a este tema de investigación y así generar información sobre el litoral a favor de la sección Playa Najayo la cuál es escasa.
+
 
 # Información de soporte
 
 \ldots
 
 # *Script* reproducible
+
+
+## Packages
+
+```{r, warning=F, message=F}
+library(tidyverse)
+library(purrr)
+library(sf)
+library(RColorBrewer)
+```
+
+
+## Read the functions
+
+```{r, results='hide'}
+basegeofispath <- 'https://raw.githubusercontent.com/geofis/RCoastSat/master/R/'
+scripts <- c('classify-transects.R', 'extract-points-distances.R',
+             'interpolate.R', 'read-shorelines.R', 'read-transects.R')
+invisible(purrr::map(paste0(basegeofispath, scripts), function(x) devtools::source_url(x)))
+```
+
+## Import/plot transects and shorelines
+
+```{r}
+shl <- rshl('data/najayo-l8-shorelines.geojson') %>% mutate(
+  date=as.Date(date)) #Shorelines
+refl <- shl %>% filter(date==min(date
+                                 )) #Reference shoreline
+rawtrans <- rtrans('transectos_lineacosta.geojson') #Raw transects
+trans <- transclas(tr = rawtrans, rl = refl
+                   ) #Transects classified by seaward/landward sections
+cols <- colorRampPalette(brewer.pal(9,'Set1'))(nrow(shl))
+ggplot() +
+  geom_sf(data = shl %>% mutate(date = factor(date)), 
+          color = cols) +
+  geom_sf(
+    data = refl %>% mutate(linetype = paste0('Ref. (', date, ')')),
+    aes(color=linetype), lwd = 1, show.legend = 
+      'line') +
+  geom_sf(
+    data = trans %>% mutate(sealand=paste0('Transect: ', sealand)),
+    aes(color = sealand), show.legend = 'line', lwd = 1) +
+  scale_color_manual(
+    values = c('black', 'orange', 'blue')) +
+  geom_sf_text(
+    data = trans %>% filter(sealand=='landward') %>%
+      st_centroid, aes(label = transect),
+    size = 4) +
+  theme_minimal() +
+  theme(legend.title = element_blank())
+```
+
+## Extract points at interserctions and calculate distances
+
+```{r}
+distl <- pointdist(sh = shl, re = refl, tr = trans, rtr = rawtrans)
+```
+
+## Time-series of shoreline change for each transect 
+
+```{r, fig.height=20}
+interdist <- map(distl, interpolate) %>% plyr::ldply()
+distances <- plyr::ldply(distl)
+distances %>% 
+  ggplot() + theme_bw() + aes(x = date, y = distance_sign) +
+  geom_ribbon(data = interdist, aes(ymax = pmax(distance_sign,
+                                                0), ymin = 0), fill = "sienna3") +
+  geom_ribbon(data = interdist, 
+              aes(ymin = pmin(distance_sign, 0), ymax = 0), fill = "skyblue3") +
+  geom_hline(yintercept = 0, color = 'grey') +
+  geom_line(colour='black', lwd = 0.5) +
+  scale_x_date(labels = scales::date_format("%Y-%m"), 
+               date_breaks = '3 months') +
+  scale_y_continuous(limits = c(-30, 30)) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5
+                                   ), text = element_text(size = 14)) +
+  facet_wrap(~transect, ncol = 1)
+```
+
+# Análisis granulométrico
+
+```{r}
+library(jsonlite)
+library(tidyverse)
+df <- jsonlite::fromJSON('Cantometría_3_results.json', flatten = TRUE)
+df  %>% filter(!codigomuestra %in% c('C20190726M1', 'C20191028M1'
+                               )) %>% unnest(clastos) %>%
+  select(`Codigo de lugar`=codigomuestra, `Largo (a)`=a,
+         `Ancho (b)`=b) %>%
+  group_by(`Codigo de lugar`) %>%
+  mutate('Codigo de lugar n'=paste0(`Codigo de lugar`,
+                           ' (n=', length(`Codigo de lugar`),')')) %>%
+  ungroup() %>% select(-`Codigo de lugar`
+                       ) %>% gather(eje,
+                    `valor (en mm)`, -`Codigo de lugar n`) %>%
+  ggplot() + aes(x = eje, y = `valor (en mm)`) + geom_boxplot() +
+  facet_grid(~`Codigo de lugar n`) + theme_bw() +
+  theme(text = element_text(size = 18))
+df2 <- df %>% filter(!codigomuestra %in% c('C20190726M1',
+                      'C20191028M1')) %>% unnest(clastos)
+
+playa_pescadores <- droplevels(df2[df2$codigomuestra %in% c(
+  "AV2010","AV8920","AV2907","AV2510"), c("a","b")])
+
+playa_carlos_pinto <- droplevels(
+  df2[df2$codigomuestra %in% c("AV2021","AV2020"), c("a","b")])
+
+par(mfrow=c(1,2))
+
+boxplot(playa_pescadores, las = 1, main = 'playa los Pescadores', 
+        cex.main = 1, ylim = c(0,20))
+
+boxplot(playa_carlos_pinto, las = 1, main = 'playa Carlos Pinto',
+        cex.main = 1, ylim = c(0,20))
+
+hist(playa_pescadores$a, xlim = c(0,200), main = 'Largo, playa Pescadores',
+     xlab = 'Largo (in mm)', cex.main = 1)
+
+hist(playa_carlos_pinto$a, xlim = c(0,200), main = 'Largo, playa Carlos Pinto',
+     xlab = 'Largo (in mm)', cex.main = 1)
+
+hist(playa_pescadores$b, xlim = c(0,200), main = 'Ancho, Playa pescadores',
+     xlab = 'Ancho (in mm)', cex.main = 1)
+
+hist(playa_carlos_pinto$a, xlim = c(0,200), main = 'Ancho, playa Carlos Pinto',
+     xlab = 'Ancho (in mm)', cex.main = 1)
+
+```
 
 \ldots
 
