@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  3 JUL 2020 02:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  17 JUL 2020 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -562,14 +562,6 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 153.
 Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 153.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 153.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 153.
-
 Package hyperref Info: Option `colorlinks' set `true' on input line 153.
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -724,260 +716,238 @@ LaTeX Font Info:    Try loading font information for OT1+zplm on input line 313
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-<Cocoloba_uvifera.jpg, id=87, 2321.67375pt x 2098.84125pt>
-File: Cocoloba_uvifera.jpg Graphic file (type jpg)
-<use Cocoloba_uvifera.jpg>
-Package pdftex.def Info: Cocoloba_uvifera.jpg  used on input line 338.
-(pdftex.def)             Requested size: 249.78761pt x 225.81319pt.
-<mangle_rojo.png, id=88, 404.26031pt x 529.98pt>
-File: mangle_rojo.png Graphic file (type png)
-<use mangle_rojo.png>
-Package pdftex.def Info: mangle_rojo.png  used on input line 344.
-(pdftex.def)             Requested size: 200.98232pt x 263.48518pt.
-<mapa_bahia_najayo.png, id=89, 808.52063pt x 487.06969pt>
-File: mapa_bahia_najayo.png Graphic file (type png)
-<use mapa_bahia_najayo.png>
-Package pdftex.def Info: mapa_bahia_najayo.png  used on input line 350.
-(pdftex.def)             Requested size: 469.75655pt x 282.99112pt.
-[2] [3 <./Cocoloba_uvifera.jpg> <./mangle_rojo.png>]
-Overfull \hbox (0.82106pt too wide) in paragraph at lines 358--361
-[]\T1/ppl/m/n/10.95 Para cumplir los ob-je-tivos se em-plearon varias téc-ni-ca
-s, en-tre las que se in-cluyen fo-togrametría,
- []
-
-[4 <./mapa_bahia_najayo.png>]
-
-LaTeX Warning: Reference `transecto' on page 5 undefined on input line 409.
-
-
-LaTeX Warning: Reference `playa' on page 5 undefined on input line 453.
-
-[5]
-<areas_muestras_colectadas.jpg, id=139, 333.49594pt x 273.27094pt>
-File: areas_muestras_colectadas.jpg Graphic file (type jpg)
-<use areas_muestras_colectadas.jpg>
-Package pdftex.def Info: areas_muestras_colectadas.jpg  used on input line 472.
-
-(pdftex.def)             Requested size: 229.6799pt x 188.2027pt.
-<Clasto_beachrock.jpg, id=140, 4175.6pt x 3131.7pt>
-File: Clasto_beachrock.jpg Graphic file (type jpg)
-<use Clasto_beachrock.jpg>
-Package pdftex.def Info: Clasto_beachrock.jpg  used on input line 478.
-(pdftex.def)             Requested size: 250.90747pt x 188.1806pt.
-<transect_linea_R.png, id=141, 471.26062pt x 261.22594pt>
-File: transect_linea_R.png Graphic file (type png)
-<use transect_linea_R.png>
-Package pdftex.def Info: transect_linea_R.png  used on input line 482.
-(pdftex.def)             Requested size: 469.76378pt x 260.3962pt.
-
-Overfull \hbox (17.00876pt too wide) in paragraph at lines 482--486
-[][]
- []
-
-[6 <./areas_muestras_colectadas.jpg> <./Clasto_beachrock.jpg>]
-<cambio_playa_Najayo.png, id=147, 505.89pt x 1445.4pt>
-File: cambio_playa_Najayo.png Graphic file (type png)
-<use cambio_playa_Najayo.png>
-Package pdftex.def Info: cambio_playa_Najayo.png  used on input line 489.
-(pdftex.def)             Requested size: 79.0451pt x 225.8432pt.
-<dimension_real.png, id=148, 505.89pt x 361.35pt>
-File: dimension_real.png Graphic file (type png)
-<use dimension_real.png>
-Package pdftex.def Info: dimension_real.png  used on input line 496.
-(pdftex.def)             Requested size: 263.48114pt x 188.20082pt.
-<escala_diferente_consistente.png, id=149, 505.89pt x 361.35pt>
-File: escala_diferente_consistente.png Graphic file (type png)
-<use escala_diferente_consistente.png>
-Package pdftex.def Info: escala_diferente_consistente.png  used on input line 5
-02.
-(pdftex.def)             Requested size: 263.48114pt x 188.20082pt.
-<dimension_31-40.png, id=150, 505.89pt x 361.35pt>
-File: dimension_31-40.png Graphic file (type png)
-<use dimension_31-40.png>
-Package pdftex.def Info: dimension_31-40.png  used on input line 508.
-(pdftex.def)             Requested size: 263.48114pt x 188.20082pt.
-<escala_diferente_consistente_31-40.png, id=151, 505.89pt x 361.35pt>
-File: escala_diferente_consistente_31-40.png Graphic file (type png)
-<use escala_diferente_consistente_31-40.png>
-Package pdftex.def Info: escala_diferente_consistente_31-40.png  used on input 
-line 514.
-(pdftex.def)             Requested size: 263.48114pt x 188.20082pt.
-<indice_concavidad.png, id=152, 505.89pt x 361.35pt>
-File: indice_concavidad.png Graphic file (type png)
-<use indice_concavidad.png>
-Package pdftex.def Info: indice_concavidad.png  used on input line 520.
-(pdftex.def)             Requested size: 263.48114pt x 188.20082pt.
-<indice_concavidad_31-40.png, id=153, 505.89pt x 361.35pt>
-File: indice_concavidad_31-40.png Graphic file (type png)
-<use indice_concavidad_31-40.png>
-Package pdftex.def Info: indice_concavidad_31-40.png  used on input line 526.
-(pdftex.def)             Requested size: 263.48114pt x 188.20082pt.
-<Beachrock.jpg, id=154, 4175.6pt x 3131.7pt>
+<Beachrock.jpg, id=88, 4175.6pt x 3131.7pt>
 File: Beachrock.jpg Graphic file (type jpg)
 <use Beachrock.jpg>
-Package pdftex.def Info: Beachrock.jpg  used on input line 532.
-(pdftex.def)             Requested size: 250.90747pt x 188.1806pt.
-<Arroyo_Aguadulce.jpg, id=155, 4175.6pt x 3131.7pt>
-File: Arroyo_Aguadulce.jpg Graphic file (type jpg)
-<use Arroyo_Aguadulce.jpg>
-Package pdftex.def Info: Arroyo_Aguadulce.jpg  used on input line 538.
-(pdftex.def)             Requested size: 250.90747pt x 188.1806pt.
-<resultados_cambio_lineas.png, id=156, 504.38437pt x 356.0803pt>
+Package pdftex.def Info: Beachrock.jpg  used on input line 340.
+(pdftex.def)             Requested size: 301.11446pt x 225.83585pt.
+[2]
+<Cocoloba_uvifera.jpg, id=97, 2321.67375pt x 2098.84125pt>
+File: Cocoloba_uvifera.jpg Graphic file (type jpg)
+<use Cocoloba_uvifera.jpg>
+Package pdftex.def Info: Cocoloba_uvifera.jpg  used on input line 346.
+(pdftex.def)             Requested size: 266.47319pt x 240.8973pt.
+<mangle_rojo.png, id=98, 404.26031pt x 529.98pt>
+File: mangle_rojo.png Graphic file (type png)
+<use mangle_rojo.png>
+Package pdftex.def Info: mangle_rojo.png  used on input line 352.
+(pdftex.def)             Requested size: 229.69672pt x 301.1294pt.
+<mapa_bahia_najayo.png, id=99, 808.52063pt x 487.06969pt>
+File: mapa_bahia_najayo.png Graphic file (type png)
+<use mapa_bahia_najayo.png>
+Package pdftex.def Info: mapa_bahia_najayo.png  used on input line 358.
+(pdftex.def)             Requested size: 469.75655pt x 282.99112pt.
+
+Overfull \hbox (3.05516pt too wide) in paragraph at lines 364--369
+[]\T1/ppl/m/n/10.95 Para al-can-zar los ob-je-tivos se em-plearon varias téc-ni
+-cas, en-tre las que se in-cluyen fo-togrametría,
+ []
+
+[3 <./Beachrock.jpg>] [4 <./Cocoloba_uvifera.jpg> <./mangle_rojo.png>]
+<areas_muestras_colectadas.jpg, id=113, 333.49594pt x 273.27094pt>
+File: areas_muestras_colectadas.jpg Graphic file (type jpg)
+<use areas_muestras_colectadas.jpg>
+Package pdftex.def Info: areas_muestras_colectadas.jpg  used on input line 418.
+
+(pdftex.def)             Requested size: 275.62097pt x 225.84741pt.
+<Clasto_beachrock.jpg, id=114, 4175.6pt x 3131.7pt>
+File: Clasto_beachrock.jpg Graphic file (type jpg)
+<use Clasto_beachrock.jpg>
+Package pdftex.def Info: Clasto_beachrock.jpg  used on input line 424.
+(pdftex.def)             Requested size: 301.11446pt x 225.83585pt.
+<costa_transecto.jpg, id=115, 513.67293pt x 408.60345pt>
+File: costa_transecto.jpg Graphic file (type jpg)
+<use costa_transecto.jpg>
+Package pdftex.def Info: costa_transecto.jpg  used on input line 430.
+(pdftex.def)             Requested size: 307.57909pt x 244.66518pt.
+[5 <./mapa_bahia_najayo.png>] [6 <./areas_muestras_colectadas.jpg> <./Clasto_be
+achrock.jpg>] [7 <./costa_transecto.jpg>]
+<transect_linea_R.png, id=158, 471.26062pt x 261.22594pt>
+File: transect_linea_R.png Graphic file (type png)
+<use transect_linea_R.png>
+Package pdftex.def Info: transect_linea_R.png  used on input line 505.
+(pdftex.def)             Requested size: 407.43349pt x 225.8457pt.
+<cambio_playa_Najayo.png, id=159, 505.89pt x 1445.4pt>
+File: cambio_playa_Najayo.png Graphic file (type png)
+<use cambio_playa_Najayo.png>
+Package pdftex.def Info: cambio_playa_Najayo.png  used on input line 517.
+(pdftex.def)             Requested size: 210.78955pt x 602.25587pt.
+<resultados_cambio_lineas.png, id=160, 504.38437pt x 356.0803pt>
 File: resultados_cambio_lineas.png Graphic file (type png)
 <use resultados_cambio_lineas.png>
-Package pdftex.def Info: resultados_cambio_lineas.png  used on input line 545.
-(pdftex.def)             Requested size: 266.58359pt x 188.20006pt.
-<resultados_estadisticos.png, id=157, 368.87813pt x 264.99pt>
+Package pdftex.def Info: resultados_cambio_lineas.png  used on input line 524.
+(pdftex.def)             Requested size: 293.2435pt x 207.02115pt.
+<pendiente_dimension.png, id=161, 505.89pt x 361.35pt>
+File: pendiente_dimension.png Graphic file (type png)
+<use pendiente_dimension.png>
+Package pdftex.def Info: pendiente_dimension.png  used on input line 530.
+(pdftex.def)             Requested size: 421.5791pt x 301.12793pt.
+<pendiente.png, id=162, 505.89pt x 361.35pt>
+File: pendiente.png Graphic file (type png)
+<use pendiente.png>
+Package pdftex.def Info: pendiente.png  used on input line 536.
+(pdftex.def)             Requested size: 316.18047pt x 225.8432pt.
+<pendiente_2.png, id=163, 505.89pt x 361.35pt>
+File: pendiente_2.png Graphic file (type png)
+<use pendiente_2.png>
+Package pdftex.def Info: pendiente_2.png  used on input line 542.
+(pdftex.def)             Requested size: 316.18047pt x 225.8432pt.
+<indice_concavidad.png, id=164, 505.89pt x 361.35pt>
+File: indice_concavidad.png Graphic file (type png)
+<use indice_concavidad.png>
+Package pdftex.def Info: indice_concavidad.png  used on input line 548.
+(pdftex.def)             Requested size: 316.18047pt x 225.8432pt.
+<concavo.png, id=165, 505.89pt x 361.35pt>
+File: concavo.png Graphic file (type png)
+<use concavo.png>
+Package pdftex.def Info: concavo.png  used on input line 554.
+(pdftex.def)             Requested size: 316.18047pt x 225.8432pt.
+<resultados_estadisticos.png, id=166, 368.87813pt x 264.99pt>
 File: resultados_estadisticos.png Graphic file (type png)
 <use resultados_estadisticos.png>
-Package pdftex.def Info: resultados_estadisticos.png  used on input line 551.
+Package pdftex.def Info: resultados_estadisticos.png  used on input line 560.
 (pdftex.def)             Requested size: 261.98972pt x 188.20486pt.
-<muestra_graf.png, id=158, 913.16156pt x 307.1475pt>
+<muestra_graf.png, id=167, 913.16156pt x 307.1475pt>
 File: muestra_graf.png Graphic file (type png)
 <use muestra_graf.png>
-Package pdftex.def Info: muestra_graf.png  used on input line 557.
+Package pdftex.def Info: muestra_graf.png  used on input line 566.
 (pdftex.def)             Requested size: 469.74701pt x 158.00229pt.
-<tabla_lugar.png, id=159, 401.24907pt x 155.07938pt>
+<tabla_lugar.png, id=168, 401.24907pt x 155.07938pt>
 File: tabla_lugar.png Graphic file (type png)
 <use tabla_lugar.png>
-Package pdftex.def Info: tabla_lugar.png  used on input line 563.
-(pdftex.def)             Requested size: 401.24808pt x 155.07898pt.
-<diagrama.png, id=160, 708.39656pt x 298.86656pt>
-File: diagrama.png Graphic file (type png)
-<use diagrama.png>
-Package pdftex.def Info: diagrama.png  used on input line 569.
-(pdftex.def)             Requested size: 469.75906pt x 198.1874pt.
-<largo_hist.png, id=161, 828.84656pt x 265.74281pt>
+Package pdftex.def Info: tabla_lugar.png  used on input line 573.
+(pdftex.def)             Requested size: 401.27255pt x 155.08844pt.
+<largo_hist.png, id=169, 828.84656pt x 265.74281pt>
 File: largo_hist.png Graphic file (type png)
 <use largo_hist.png>
-Package pdftex.def Info: largo_hist.png  used on input line 575.
+Package pdftex.def Info: largo_hist.png  used on input line 581.
 (pdftex.def)             Requested size: 469.7536pt x 150.61127pt.
-<ancho_hist.png, id=162, 789.70032pt x 265.74281pt>
+<ancho_hist.png, id=170, 789.70032pt x 265.74281pt>
 File: ancho_hist.png Graphic file (type png)
 <use ancho_hist.png>
-Package pdftex.def Info: ancho_hist.png  used on input line 581.
+Package pdftex.def Info: ancho_hist.png  used on input line 588.
 (pdftex.def)             Requested size: 469.751pt x 158.07635pt.
-[7 <./transect_linea_R.png (PNG copy)> <./cambio_playa_Najayo.png (PNG copy)>] 
-[8 <./dimension_real.png (PNG copy)> <./escala_diferente_consistente.png (PNG c
-opy)>] [9 <./dimension_31-40.png (PNG copy)> <./escala_diferente_consistente_31
--40.png (PNG copy)>] [10 <./indice_concavidad.png (PNG copy)> <./indice_concavi
-dad_31-40.png (PNG copy)>] [11 <./Beachrock.jpg> <./Arroyo_Aguadulce.jpg>] [12 
-<./resultados_cambio_lineas.png> <./resultados_estadisticos.png> <./muestra_gra
-f.png>] [13 <./tabla_lugar.png> <./diagrama.png> <./largo_hist.png>] [14 <./anc
-ho_hist.png>]
-Overfull \hbox (25.56168pt too wide) in paragraph at lines 656--666
+<diagrama.png, id=171, 708.39656pt x 298.86656pt>
+File: diagrama.png Graphic file (type png)
+<use diagrama.png>
+Package pdftex.def Info: diagrama.png  used on input line 595.
+(pdftex.def)             Requested size: 469.75906pt x 198.1874pt.
+[8 <./transect_linea_R.png (PNG copy)>] [9 <./cambio_playa_Najayo.png (PNG copy
+)>] [10 <./resultados_cambio_lineas.png> <./pendiente_dimension.png (PNG copy)>
+] [11 <./pendiente.png (PNG copy)> <./pendiente_2.png (PNG copy)>] [12 <./indic
+e_concavidad.png (PNG copy)> <./concavo.png (PNG copy)>] [13 <./resultados_esta
+disticos.png> <./muestra_graf.png> <./tabla_lugar.png>] [14 <./largo_hist.png> 
+<./ancho_hist.png> <./diagrama.png>] [15]
+Overfull \hbox (25.56168pt too wide) in paragraph at lines 679--689
 \T1/ppl/m/n/10.95 e in-si-s-tir en la im-por-tan-cia de los es-tu-dios de in-ve
 s-ti-gación cien-tí-fica para la gen-eración de conocimiento
  []
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 672.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 677.
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 695.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 700.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 678.
-[15]
-Overfull \hbox (560.0685pt too wide) in paragraph at lines 733--733
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 701.
+[16]
+Overfull \hbox (560.0685pt too wide) in paragraph at lines 756--756
 []\T1/cmtt/m/n/10.95 ## Reading layer `najayo-l8-shorelines' from data source `
 /home/analaroja29/unidad-0-asignacion-99-mi-manuscrito-anavalera29/data/najayo-
 l8-shorelines.geojson' using driver `GeoJSON'[] 
  []
 
 
-Overfull \hbox (543.09338pt too wide) in paragraph at lines 750--750
+Overfull \hbox (543.09338pt too wide) in paragraph at lines 773--773
 []\T1/cmtt/m/n/10.95 ## Reading layer `transectos_lineacosta' from data source 
 `/home/analaroja29/unidad-0-asignacion-99-mi-manuscrito-anavalera29/transectos_
 lineacosta.geojson' using driver `GeoJSON'[] 
  []
 
-[16]
-<manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf, id=217, 451.6875pt x 310.
+[17]
+<manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf, id=223, 451.6875pt x 310.
 15875pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf  u
-sed on input line 801.
+sed on input line 824.
 (pdftex.def)             Requested size: 451.68639pt x 310.15799pt.
-[17 <./manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf>]
-<manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf, id=230, 460.72125pt x 143
+[18 <./manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf>]
+<manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf, id=236, 460.72125pt x 143
 2.35126pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf  u
-sed on input line 844.
+sed on input line 867.
 (pdftex.def)             Requested size: 209.21371pt x 650.43135pt.
-[18] [19 <./manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf>]
-<manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf, id=247, 464.73625pt x 315
+[19] [20 <./manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf>]
+<manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf, id=253, 464.73625pt x 315
 .1775pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf  u
-sed on input line 885.
+sed on input line 908.
 (pdftex.def)             Requested size: 464.74928pt x 315.18634pt.
 
-Overfull \hbox (11.99426pt too wide) in paragraph at lines 885--886
+Overfull \hbox (11.99426pt too wide) in paragraph at lines 908--909
 [][] 
  []
 
-[20]
-<manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf, id=252, 409.53pt x 253.94
+[21]
+<manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf, id=258, 409.53pt x 253.94
 875pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf  u
-sed on input line 908.
+sed on input line 931.
 (pdftex.def)             Requested size: 409.54149pt x 253.95586pt.
-[21 <./manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf>]
-<manuscrito_files/figure-latex/unnamed-chunk-6-3.pdf, id=264, 439.6425pt x 286.
+[22 <./manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf>]
+<manuscrito_files/figure-latex/unnamed-chunk-6-3.pdf, id=270, 439.6425pt x 286.
 06876pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-6-3.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-6-3.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-6-3.pdf  u
-sed on input line 920.
+sed on input line 943.
 (pdftex.def)             Requested size: 439.64812pt x 286.07242pt.
-[22 <./manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf> <./manuscrito_files
+[23 <./manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf> <./manuscrito_files
 /figure-latex/unnamed-chunk-6-3.pdf>]
-<manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf, id=285, 439.6425pt x 286.
+<manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf, id=291, 439.6425pt x 286.
 06876pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf  u
-sed on input line 932.
+sed on input line 955.
 (pdftex.def)             Requested size: 439.64812pt x 286.07242pt.
-[23 <./manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf>] [24]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1054.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1054.
+[24 <./manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf>] [25]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1078.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1078.
 (./manuscrito.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1054.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1054.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1078.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1078.
 
 Package rerunfilecheck Info: File `manuscrito.out' has not changed.
-(rerunfilecheck)             Checksum: 226BAF3500887D2750E4DF6A2AE85DC7;3033.
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: B5B01E875DA10E6F806B220578D04BC5;3046.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1054.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1078.
  ) 
 Here is how much of TeX's memory you used:
- 10595 strings out of 492982
- 150882 string characters out of 6134896
- 225837 words of memory out of 5000000
- 13944 multiletter control sequences out of 15000+600000
- 26445 words of font info for 51 fonts, out of 8000000 for 9000
+ 10592 strings out of 492982
+ 150615 string characters out of 6134896
+ 225961 words of memory out of 5000000
+ 13938 multiletter control sequences out of 15000+600000
+ 27998 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,6n,31p,406b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,6n,31p,406b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texliv
 e/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/c
 m-super/sfit1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb
@@ -986,10 +956,10 @@ m-super/sfit1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb
 mf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
 /palatino/uplri8a.pfb>
-Output written on manuscrito.pdf (24 pages, 24813400 bytes).
+Output written on manuscrito.pdf (25 pages, 20668986 bytes).
 PDF statistics:
- 374 PDF objects out of 1000 (max. 8388607)
- 294 compressed objects within 3 object streams
- 87 named destinations out of 1000 (max. 500000)
- 285 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 387 PDF objects out of 1000 (max. 8388607)
+ 306 compressed objects within 4 object streams
+ 89 named destinations out of 1000 (max. 500000)
+ 280 words of extra memory for PDF output out of 10000 (max. 10000000)
 
