@@ -89,7 +89,7 @@
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
 
-\title{\textbar{}Cambios en los trazados de las líneas de costa y formación del
+\title{Cambios en los trazados de las líneas de costa y formación del
 \emph{beachrock} en playa Najayo San Cristóbal, República Dominicana:
 Playa de Carlos Pinto.  }
 
@@ -143,7 +143,7 @@ Playa de Carlos Pinto.  }
             bookmarks=true,
             pdfauthor={Ana Hilda Valera Arias (Estudiante, Universidad Autónoma de Santo Domingo (UASD))},
              pdfkeywords = {dinámica costera, \emph{beachrock}, manglar,erosión, playa},  
-            pdftitle={\textbar{}Cambios en los trazados de las líneas de costa y formación del
+            pdftitle={Cambios en los trazados de las líneas de costa y formación del
 \emph{beachrock} en playa Najayo San Cristóbal, República Dominicana:
 Playa de Carlos Pinto.},
             colorlinks=true,
@@ -155,10 +155,11 @@ Playa de Carlos Pinto.},
 
 % set default figure placement to htbp
 \makeatletter
-\def\fps@figure{htbp}
+\def\fps@figure{H}
 \makeatother
 
-\usepackage{pdflscape} \newcommand{\blandscape}{\begin{landscape}}
+\usepackage{float} \usepackage[all]{nowidow} \usepackage{pdflscape}
+\newcommand{\blandscape}{\begin{landscape}}
 \newcommand{\elandscape}{\end{landscape}}
 
 
@@ -282,7 +283,7 @@ Neógeno y el periodo cuaternario. Ejemplo de ella según Diaz de Neira
 (2007--2010), la Fm. Isabela del pleistoceno; formación carbonatada
 arrecifal, rica en corales de tallas variables. Aflora bajo la forma de
 diferentes relieves, formando arrecifes en escalera descendiendo hacia
-el mar (ver figura \ref{beachrock}).
+el mar (ver figura \ref{beachrock_foto}).
 
 El litoral costero de la parte sur del país se caracteriza por pequeños
 acantilados, playas de origen aluvial y dunas extensas (Abreu, 1999).
@@ -306,6 +307,24 @@ bosques son asociaciones vegetales que prosperan en las costas
 tropicales y subtropicales del mundo. Pero en la isla de Santo Domingo
 existe una tipología diferente en dichos espacios costeros.
 
+\begin{figure}
+\centering
+\includegraphics[height=2.91667in]{Beachrock.jpg}
+\caption{Afloramiento de rocas playa\_Najayo\label{beachrock_foto}}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[height=3.33333in]{Cocoloba_uvifera.jpg}
+\caption{Vegetación dunas de playa\label{cocoloba}}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[height=4.16667in]{mangle_rojo.png}
+\caption{Manglar\label{manglerojo}}
+\end{figure}
+
 La playa de Najayo se encuentra ubicada en la sección del mismo nombre,
 perteneciente al municipio San Gregorio de Nigua, provincia San
 Cristóbal, al Sur de la República Dominicana. Fisiográficamente, se
@@ -318,6 +337,12 @@ está compuesto por arena y gravas bioclásticas formando el cordón
 litoral, además de conglomerado, gravas, arenas de fondo de valle,
 calizas arrecifales, calciruditas y calcarenitas (ver figura
 \ref{mapageo50k}).
+
+\begin{figure}
+\centering
+\includegraphics{mapa_bahia_najayo.jpg}
+\caption{Mapa geológico escala 1:50,000 (hoja Nizao)\label{mapageo50k}}
+\end{figure}
 
 Este estudio tiene como objetivo contribuir al conocimiento de la
 dinámica y geomorfología litoral domininicana, utilizando como estudio
@@ -333,38 +358,12 @@ presente estudio consiste en que aporta nuevo conocimiento sobre la
 playa de Najayo y su dinámica, y porque tiene potencial para informar
 medidas de gestión de este importante recurso natural.
 
-\ldots
-
-\begin{figure}
-\centering
-\includegraphics[height=3.12500in]{Beachrock.jpg}
-\caption{Afloramiento de rocas playa\_Najayo\label{beachrock}}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics[height=3.33333in]{Cocoloba_uvifera.jpg}
-\caption{Vegetación dunas de playa\label{cocoloba}}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics[height=4.16667in]{mangle_rojo.png}
-\caption{Manglar\label{manglerojo}}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics{mapa_bahia_najayo.png}
-\caption{Mapa geológico escala 1:50,000 (hoja Nizao)\label{mapageo50k}}
-\end{figure}
-
 \section{Metodología}\label{metodologuxeda}
 
 Para alcanzar los objetivos se emplearon varias técnicas, entre las que
 se incluyen fotogrametría, navegación por satélite, teledetección,
-sistema de información geográfica y estadística. Por consiguiente, cada
-técnica empleada generó una serie de datos que pertimitieron el
+sistemas de información geográfica y estadística. Por consiguiente, cada
+técnica empleada generó una serie de resultados que pertimitieron el
 desarrollo de la investigación y la producción de informaciones.
 
 Los cambios en el trazado de las líneas de costa se analizaron
@@ -386,7 +385,7 @@ gráficos que facilitaron la interpretación.
 Asimismo, se colectaron siete muestras de sedimentos, que incluyeron
 tanto arenas como gravas, los cuáles fueron seleccionados en base a tres
 áreas con respecto al mar (canal,berma y duna de playa) e identificadas
-con un código de lugar (ver figura\ref{muestras}). Dichas muestras
+con un código de lugar (ver figura \ref{muestras}). Dichas muestras
 fueron depositadas en bolsas Whirl Pak de 23 cm L x 11.5 cm W, con 0.064
 mm de grosor y 532 ml de capacidad. También, se tomaron las coordenadas
 de cada punto con el receptor GPS convencional del telefono móvil y se
@@ -394,7 +393,7 @@ midieron los clastos (en milímetros) presentes con una regla en dos ejes
 largo y ancho. Estos datos fueron rellenados en un formulario
 electrónico para cada muestra, utilizando la aplicación ODK Collection
 (Singh, 2013) descargada en el teléfono. Además, se extrajo por medio de
-un martillo un fragmento del \emph{beachrock} (ver figura\ref{clasto})
+un martillo un fragmento del \emph{beachrock} (ver figura \ref{clasto})
 al cuál se le aplicó ácido clorhídrico para determinar si contenía
 carbonato. Finalmente, para tener datos recientes del perfil de la
 playa, se realizó un vuelo de dron y se tomaron fotografias de la zona.
@@ -407,11 +406,9 @@ superficie (DSM, por sus siglas en inglés) y ortofotografías. Los DSM
 fueron empleados en la extracción de perfiles topográficos de la playa
 por medio de transectos utilizando el el script de ayuda BeachProfile
 (Batlle, 2020a), y las ortofotografías se emplearon para evaluar el
-aspecto general de la playa (ver figura\ref{carlo}). El script
+aspecto general de la playa (ver figura \ref{carlo}). El script
 BeachProfile genera perfiles de playa de forma dimensional con una misma
 o diferentes escalas, al igual que la concavidad que muestra cada una .
-
-\ldots
 
 \begin{figure}
 \centering
@@ -444,11 +441,11 @@ costa}\label{cambios-de-la-luxedneas-de-costa}
 
 Los trazados de las líneas de costa y los 25 transectos permitieron
 reconstruir una serie de temporal de la dinámica del litoral de Najayo
-(ver figura\ref{lineas}). Estos transectos muestran un esquema del
-cambio de la costa por trimestre de cada año (ver figura\ref{cambio}).
+(ver figura \ref{lineas}). Estos transectos muestran un esquema del
+cambio de la costa por trimestre de cada año (ver figura \ref{cambio}).
 También se identificaron los sectores de la playa más susceptibles al
-cambio y las épocas del año de mayor actividad (ver
-figura\ref{resultados}). De manera global, los cambios más prominentes
+cambio y las épocas del año de mayor actividad (ver figura
+\ref{resultados}). De manera global, los cambios más prominentes
 ocurrieron en el tercer cuatrimestre (septiembre-diciembre) de cada año,
 en los que comúnmente predominó la progradación en casi todos los años.
 Por el contrario, durante los meses de junio a agosto, se registró una
@@ -456,39 +453,39 @@ dinámica predominante de retrogradación.
 
 En cuanto al perfil de playa, las pendientes generadas de manera
 dimensional presentaron inclinaciones y a escalas diferentes en varios
-transectos, a medidas en que avanzaba al extremo occidental (ver
-figura\ref{dimension}). Por consiguiente, el declive más bajo estuvo en
-los espacios del 1 hasta el 10 con medidas desde -6.3º y -14.11º, el
-alto desde el 41 al 48 con -11.78º y -19.99º apróximadamente (ver
-figura\ref{alta} y \ref{baja}). En relación con el índice de concavidad,
-ésta mostró un perfil cóncavo con inclinaciones de poco más de -0.01º y
-menos de -0.51º (ver figura\ref{indice} y \ref{concavo}).
+transectos, a medidas en que avanzaba al extremo occidental (ver figura
+\ref{dimension}). Por consiguiente, el declive más bajo estuvo en los
+espacios del 1 hasta el 10 con medidas desde -6.3º y -14.11º, el alto
+desde el 41 al 48 con -11.78º y -19.99º apróximadamente (ver figura
+\ref{alta} y \ref{baja}). En relación con el índice de concavidad, ésta
+mostró un perfil cóncavo con inclinaciones de poco más de -0.01º y menos
+de -0.51º (ver figura \ref{indice} y \ref{concavo}).
 
 \subsection{Análisis
 granulométrico}\label{anuxe1lisis-granulomuxe9trico}
 
 El tamaño de los sedimentos presentó variaciones en cada punto de
-muestreo (ver figura\ref{estadistico}), donde se resumen los
+muestreo (ver figura \ref{estadistico}), donde se resumen los
 estadísticos y tamaños de muestra en cada una de las localidades de
-colecta (ver figura\ref{grafico} y \ref{lugar}). La playa de los
+colecta (ver figura \ref{grafico} y \ref{lugar}). La playa de los
 Pescadores registró los valores extremos, tanto de ancho como de largo
 de los clastos. Por otra parte, en las muestras de Carlos Pinto, los
 clastos fueron más largos en promedio que en la otra playa.
 
 En los diagramas de caja y en los histogramas se observa que las
 muestras presentan sesgos hacia la derecha o positivo en ambas playas
-(ver figura\ref{largo} y \ref{ancho}). Adicionalmente, se identificó la
-distribución por cuartiles de las mediciones según playa (ver
-figura\ref{playa}). En la playa los Pescadores el 25\% más pequeño de
-los clastos alcanzó 10 mm de largo y 7 mm de ancho, la mediana (el valor
-que mide la muestra en dos partes iguales) fue de 13 mm y 10 mm para el
+(ver figura \ref{largo} y \ref{ancho}). Adicionalmente, se identificó la
+distribución por cuartiles de las mediciones según playa (ver figura
+\ref{playa}). En la playa los Pescadores el 25\% más pequeño de los
+clastos alcanzó 10 mm de largo y 7 mm de ancho, la mediana (el valor que
+mide la muestra en dos partes iguales) fue de 13 mm y 10 mm para el
 largo y el ancho respectivamente, mientras que el tercer cuartil, es
 decir el 75\% más pequeño de los clastos medidos tenía 15 mm o menos de
 largo y 12 mm de ancho. En tanto que, en Carlos Pinto la mediana fue de
 15 mm y 9 mm de largo y ancho respectivamente y el primer cuartil de 13
 mm de largo y 8 mm de largo aproximadamente.
 
-\paragraph{Rocas de playa}\label{rocas-de-playa}
+\subsection{Rocas de playa}\label{rocas-de-playa}
 
 Las rocas emergidas y submergidas en la playa de Carlos Pinto se ubican
 en el centro de la costa. Estas afloran someramente en pequeños bancos
@@ -497,8 +494,6 @@ acantilados. Se extienden desde la superficie terrestre hacia el mar,
 principalmente desde la desembocadura de dos cañadas, ésta se define
 como cuerpo de agua de curso temporero que circula sobre la superficie y
 desemboca en otra masa de agua sea dulce o salada.
-
-\ldots
 
 \begin{figure}
 \centering
@@ -641,7 +636,7 @@ de acuerdo con (Lorenzo, Alonso, \& Pagés, 2003), la deriva litoral es
 la causante de este proceso y él mismo puede ser diferente durante cada
 estación del año.
 
-\subsubsection{Análisis
+\subsection{Análisis
 granulométrico}\label{anuxe1lisis-granulomuxe9trico-1}
 
 Las variaciones en los tamaños presentados de los depósitos de
@@ -661,7 +656,7 @@ Dulce es de menor dimensión que el Rolón. también, por fenómenos
 naturales, razón de que en ese tiempo el mar excede su límite y lanza
 escombro en toda la ensenada.
 
-\paragraph{\texorpdfstring{\emph{Beachrock}}{Beachrock}}\label{beachrock}
+\subsection{\texorpdfstring{\emph{Beachrock}}{Beachrock}}\label{beachrock}
 
 Las rocas de playa se encuentran ubicadas en el espacio por el cuál
 cañadas vierten sus aguas al mar, extendiéndose hacia el centro de la
@@ -688,8 +683,6 @@ unirse a este tema y así generar información sobre el litoral a favor de
 la sección Playa Najayo la cuál es escasa.
 
 \section{Información de soporte}\label{informaciuxf3n-de-soporte}
-
-\ldots
 
 \section{\texorpdfstring{\emph{Script}
 reproducible}{Script reproducible}}\label{script-reproducible}
@@ -747,7 +740,7 @@ shorelines}\label{importplot-transects-and-shorelines}
 \end{Shaded}
 
 \begin{verbatim}
-## Reading layer `najayo-l8-shorelines' from data source `/home/analaroja29/unidad-0-asignacion-99-mi-manuscrito-anavalera29/data/najayo-l8-shorelines.geojson' using driver `GeoJSON'
+## Reading layer `najayo-l8-shorelines' from data source `/home/jr/bufferdeana/data/najayo-l8-shorelines.geojson' using driver `GeoJSON'
 ## Simple feature collection with 80 features and 4 fields
 ## geometry type:  LINESTRING
 ## dimension:      XY
@@ -764,7 +757,7 @@ shorelines}\label{importplot-transects-and-shorelines}
 \end{Shaded}
 
 \begin{verbatim}
-## Reading layer `transectos_lineacosta' from data source `/home/analaroja29/unidad-0-asignacion-99-mi-manuscrito-anavalera29/transectos_lineacosta.geojson' using driver `GeoJSON'
+## Reading layer `transectos_lineacosta' from data source `/home/jr/bufferdeana/transectos_lineacosta.geojson' using driver `GeoJSON'
 ## Simple feature collection with 25 features and 0 fields
 ## geometry type:  LINESTRING
 ## dimension:      XY
@@ -901,7 +894,7 @@ transect}\label{time-series-of-shoreline-change-for-each-transect}
                     \StringTok{`}\DataTypeTok{valor (en mm)}\StringTok{`}\NormalTok{, }\OperatorTok{-}\StringTok{`}\DataTypeTok{Codigo de lugar n}\StringTok{`}\NormalTok{) }\OperatorTok{%>%}
 \StringTok{  }\KeywordTok{ggplot}\NormalTok{() }\OperatorTok{+}\StringTok{ }\KeywordTok{aes}\NormalTok{(}\DataTypeTok{x =}\NormalTok{ eje, }\DataTypeTok{y =} \StringTok{`}\DataTypeTok{valor (en mm)}\StringTok{`}\NormalTok{) }\OperatorTok{+}\StringTok{ }\KeywordTok{geom_boxplot}\NormalTok{() }\OperatorTok{+}
 \StringTok{  }\KeywordTok{facet_grid}\NormalTok{(}\OperatorTok{~}\StringTok{`}\DataTypeTok{Codigo de lugar n}\StringTok{`}\NormalTok{) }\OperatorTok{+}\StringTok{ }\KeywordTok{theme_bw}\NormalTok{() }\OperatorTok{+}
-\StringTok{  }\KeywordTok{theme}\NormalTok{(}\DataTypeTok{text =} \KeywordTok{element_text}\NormalTok{(}\DataTypeTok{size =} \DecValTok{18}\NormalTok{))}
+\StringTok{  }\KeywordTok{theme}\NormalTok{(}\DataTypeTok{text =} \KeywordTok{element_text}\NormalTok{(}\DataTypeTok{size =} \DecValTok{9}\NormalTok{))}
 \end{Highlighting}
 \end{Shaded}
 
@@ -953,8 +946,6 @@ transect}\label{time-series-of-shoreline-change-for-each-transect}
 \end{Shaded}
 
 \includegraphics{manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf}
-
-\ldots
 
 \section*{Referencias}\label{referencias}
 \addcontentsline{toc}{section}{Referencias}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  17 JUL 2020 15:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  20 JUL 2020 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -563,7 +563,17 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 153.
 
 Package hyperref Info: Option `colorlinks' set `true' on input line 153.
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count104
+\float@exts=\toks19
+\float@box=\box28
+\@float@everytoks=\toks20
+\@floatcapt=\box29
+) (/usr/share/texlive/texmf-dist/tex/latex/nowidow/nowidow.sty
+Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
+Package: nowidow 
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
@@ -573,29 +583,26 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 
 LaTeX Warning: Label `resultados' multiply defined.
 
-
-LaTeX Warning: Label `beachrock' multiply defined.
-
 )
 \openout1 = `manuscrito.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 169.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 170.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
@@ -636,17 +643,17 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 \big@size=\dimen126
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
+\scratchcounter=\count105
 \scratchdimen=\dimen127
-\scratchbox=\box28
-\nofMPsegments=\count105
-\nofMParguments=\count106
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count107
+\scratchbox=\box30
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count108
 \MPscratchDim=\dimen128
-\MPnumerator=\count108
-\makeMPintoPDFobject=\count109
-\everyMPtoPDFconversion=\toks20
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks22
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -662,292 +669,420 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring ON on input line 169.
+\AtBeginShipoutBox=\box31
+Package hyperref Info: Link coloring ON on input line 170.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count110
+\c@section@level=\count111
 )
-LaTeX Info: Redefining \ref on input line 169.
-LaTeX Info: Redefining \pageref on input line 169.
-LaTeX Info: Redefining \nameref on input line 169.
+LaTeX Info: Redefining \ref on input line 170.
+LaTeX Info: Redefining \pageref on input line 170.
+LaTeX Info: Redefining \nameref on input line 170.
 (./manuscrito.out) (./manuscrito.out)
 \@outlinefile=\write4
 \openout4 = `manuscrito.out'.
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <11> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 185.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 185.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 186.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 186.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <11> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 185.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 186.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 237.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 238.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 313.
+<Beachrock.jpg, id=95, 3131.7pt x 4175.6pt>
+File: Beachrock.jpg Graphic file (type jpg)
+<use Beachrock.jpg>
+Package pdftex.def Info: Beachrock.jpg  used on input line 312.
+(pdftex.def)             Requested size: 158.07553pt x 210.76738pt.
+<Cocoloba_uvifera.jpg, id=96, 2321.67375pt x 2098.84125pt>
+File: Cocoloba_uvifera.jpg Graphic file (type jpg)
+<use Cocoloba_uvifera.jpg>
+Package pdftex.def Info: Cocoloba_uvifera.jpg  used on input line 318.
+(pdftex.def)             Requested size: 266.47319pt x 240.8973pt.
+[2pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.321 
+       <./Beachrock.jpg>]
+<mangle_rojo.png, id=104, 404.26031pt x 529.98pt>
+File: mangle_rojo.png Graphic file (type png)
+<use mangle_rojo.png>
+Package pdftex.def Info: mangle_rojo.png  used on input line 324.
+(pdftex.def)             Requested size: 229.69672pt x 301.1294pt.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 332.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 313
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 332
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 313
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 332
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 313
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 332
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 313
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 332
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-)
-<Beachrock.jpg, id=88, 4175.6pt x 3131.7pt>
-File: Beachrock.jpg Graphic file (type jpg)
-<use Beachrock.jpg>
-Package pdftex.def Info: Beachrock.jpg  used on input line 340.
-(pdftex.def)             Requested size: 301.11446pt x 225.83585pt.
-[2]
-<Cocoloba_uvifera.jpg, id=97, 2321.67375pt x 2098.84125pt>
-File: Cocoloba_uvifera.jpg Graphic file (type jpg)
-<use Cocoloba_uvifera.jpg>
-Package pdftex.def Info: Cocoloba_uvifera.jpg  used on input line 346.
-(pdftex.def)             Requested size: 266.47319pt x 240.8973pt.
-<mangle_rojo.png, id=98, 404.26031pt x 529.98pt>
-File: mangle_rojo.png Graphic file (type png)
-<use mangle_rojo.png>
-Package pdftex.def Info: mangle_rojo.png  used on input line 352.
-(pdftex.def)             Requested size: 229.69672pt x 301.1294pt.
-<mapa_bahia_najayo.png, id=99, 808.52063pt x 487.06969pt>
-File: mapa_bahia_najayo.png Graphic file (type png)
-<use mapa_bahia_najayo.png>
-Package pdftex.def Info: mapa_bahia_najayo.png  used on input line 358.
-(pdftex.def)             Requested size: 469.75655pt x 282.99112pt.
+) [3pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
+) has been already used, duplicate ignored
 
-Overfull \hbox (3.05516pt too wide) in paragraph at lines 364--369
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.340 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.340 
+       <./Cocoloba_uvifera.jpg> <./mangle_rojo.png>]
+<mapa_bahia_najayo.jpg, id=110, 1190.4475pt x 924.45375pt>
+File: mapa_bahia_najayo.jpg Graphic file (type jpg)
+<use mapa_bahia_najayo.jpg>
+Package pdftex.def Info: mapa_bahia_najayo.jpg  used on input line 343.
+(pdftex.def)             Requested size: 469.74025pt x 364.78142pt.
+[4pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.360 
+       <./mapa_bahia_najayo.jpg>]
+Overfull \hbox (3.05516pt too wide) in paragraph at lines 363--368
 []\T1/ppl/m/n/10.95 Para al-can-zar los ob-je-tivos se em-plearon varias téc-ni
 -cas, en-tre las que se in-cluyen fo-togrametría,
  []
 
-[3 <./Beachrock.jpg>] [4 <./Cocoloba_uvifera.jpg> <./mangle_rojo.png>]
-<areas_muestras_colectadas.jpg, id=113, 333.49594pt x 273.27094pt>
+<areas_muestras_colectadas.jpg, id=119, 333.49594pt x 273.27094pt>
 File: areas_muestras_colectadas.jpg Graphic file (type jpg)
 <use areas_muestras_colectadas.jpg>
-Package pdftex.def Info: areas_muestras_colectadas.jpg  used on input line 418.
+Package pdftex.def Info: areas_muestras_colectadas.jpg  used on input line 415.
 
 (pdftex.def)             Requested size: 275.62097pt x 225.84741pt.
-<Clasto_beachrock.jpg, id=114, 4175.6pt x 3131.7pt>
+[5]
+<Clasto_beachrock.jpg, id=127, 4175.6pt x 3131.7pt>
 File: Clasto_beachrock.jpg Graphic file (type jpg)
 <use Clasto_beachrock.jpg>
-Package pdftex.def Info: Clasto_beachrock.jpg  used on input line 424.
+Package pdftex.def Info: Clasto_beachrock.jpg  used on input line 421.
 (pdftex.def)             Requested size: 301.11446pt x 225.83585pt.
-<costa_transecto.jpg, id=115, 513.67293pt x 408.60345pt>
+<costa_transecto.jpg, id=128, 513.67293pt x 408.60345pt>
 File: costa_transecto.jpg Graphic file (type jpg)
 <use costa_transecto.jpg>
-Package pdftex.def Info: costa_transecto.jpg  used on input line 430.
+Package pdftex.def Info: costa_transecto.jpg  used on input line 427.
 (pdftex.def)             Requested size: 307.57909pt x 244.66518pt.
-[5 <./mapa_bahia_najayo.png>] [6 <./areas_muestras_colectadas.jpg> <./Clasto_be
-achrock.jpg>] [7 <./costa_transecto.jpg>]
-<transect_linea_R.png, id=158, 471.26062pt x 261.22594pt>
+[6pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.431 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.431 
+       <./areas_muestras_colectadas.jpg> <./Clasto_beachrock.jpg>] [7pdfTeX war
+ning (ext4): destination with the same identifier (name{figure.7}) has been alr
+eady used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.474 
+       <./costa_transecto.jpg>]
+<transect_linea_R.png, id=160, 471.26062pt x 261.22594pt>
 File: transect_linea_R.png Graphic file (type png)
 <use transect_linea_R.png>
-Package pdftex.def Info: transect_linea_R.png  used on input line 505.
+Package pdftex.def Info: transect_linea_R.png  used on input line 500.
 (pdftex.def)             Requested size: 407.43349pt x 225.8457pt.
-<cambio_playa_Najayo.png, id=159, 505.89pt x 1445.4pt>
+<cambio_playa_Najayo.png, id=161, 505.89pt x 1445.4pt>
 File: cambio_playa_Najayo.png Graphic file (type png)
 <use cambio_playa_Najayo.png>
-Package pdftex.def Info: cambio_playa_Najayo.png  used on input line 517.
+Package pdftex.def Info: cambio_playa_Najayo.png  used on input line 512.
 (pdftex.def)             Requested size: 210.78955pt x 602.25587pt.
-<resultados_cambio_lineas.png, id=160, 504.38437pt x 356.0803pt>
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.516 
+       <./transect_linea_R.png (PNG copy)>]
+<resultados_cambio_lineas.png, id=173, 504.38437pt x 356.0803pt>
 File: resultados_cambio_lineas.png Graphic file (type png)
 <use resultados_cambio_lineas.png>
-Package pdftex.def Info: resultados_cambio_lineas.png  used on input line 524.
+Package pdftex.def Info: resultados_cambio_lineas.png  used on input line 519.
 (pdftex.def)             Requested size: 293.2435pt x 207.02115pt.
-<pendiente_dimension.png, id=161, 505.89pt x 361.35pt>
+[9pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.522 
+       <./cambio_playa_Najayo.png (PNG copy)>]
+<pendiente_dimension.png, id=178, 505.89pt x 361.35pt>
 File: pendiente_dimension.png Graphic file (type png)
 <use pendiente_dimension.png>
-Package pdftex.def Info: pendiente_dimension.png  used on input line 530.
+Package pdftex.def Info: pendiente_dimension.png  used on input line 525.
 (pdftex.def)             Requested size: 421.5791pt x 301.12793pt.
-<pendiente.png, id=162, 505.89pt x 361.35pt>
+<pendiente.png, id=179, 505.89pt x 361.35pt>
 File: pendiente.png Graphic file (type png)
 <use pendiente.png>
-Package pdftex.def Info: pendiente.png  used on input line 536.
+Package pdftex.def Info: pendiente.png  used on input line 531.
 (pdftex.def)             Requested size: 316.18047pt x 225.8432pt.
-<pendiente_2.png, id=163, 505.89pt x 361.35pt>
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.534 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+11}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.534 
+       <./resultados_cambio_lineas.png> <./pendiente_dimension.png (PNG copy)>]
+<pendiente_2.png, id=184, 505.89pt x 361.35pt>
 File: pendiente_2.png Graphic file (type png)
 <use pendiente_2.png>
-Package pdftex.def Info: pendiente_2.png  used on input line 542.
+Package pdftex.def Info: pendiente_2.png  used on input line 537.
 (pdftex.def)             Requested size: 316.18047pt x 225.8432pt.
-<indice_concavidad.png, id=164, 505.89pt x 361.35pt>
+<indice_concavidad.png, id=185, 505.89pt x 361.35pt>
 File: indice_concavidad.png Graphic file (type png)
 <use indice_concavidad.png>
-Package pdftex.def Info: indice_concavidad.png  used on input line 548.
+Package pdftex.def Info: indice_concavidad.png  used on input line 543.
 (pdftex.def)             Requested size: 316.18047pt x 225.8432pt.
-<concavo.png, id=165, 505.89pt x 361.35pt>
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.12}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.546 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+13}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.546 
+       <./pendiente.png (PNG copy)> <./pendiente_2.png (PNG copy)>]
+<concavo.png, id=190, 505.89pt x 361.35pt>
 File: concavo.png Graphic file (type png)
 <use concavo.png>
-Package pdftex.def Info: concavo.png  used on input line 554.
+Package pdftex.def Info: concavo.png  used on input line 549.
 (pdftex.def)             Requested size: 316.18047pt x 225.8432pt.
-<resultados_estadisticos.png, id=166, 368.87813pt x 264.99pt>
+<resultados_estadisticos.png, id=191, 368.87813pt x 264.99pt>
 File: resultados_estadisticos.png Graphic file (type png)
 <use resultados_estadisticos.png>
-Package pdftex.def Info: resultados_estadisticos.png  used on input line 560.
+Package pdftex.def Info: resultados_estadisticos.png  used on input line 555.
 (pdftex.def)             Requested size: 261.98972pt x 188.20486pt.
-<muestra_graf.png, id=167, 913.16156pt x 307.1475pt>
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.14}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.558 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+15}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.558 
+       <./indice_concavidad.png (PNG copy)> <./concavo.png (PNG copy)>]
+<muestra_graf.png, id=196, 913.16156pt x 307.1475pt>
 File: muestra_graf.png Graphic file (type png)
 <use muestra_graf.png>
-Package pdftex.def Info: muestra_graf.png  used on input line 566.
+Package pdftex.def Info: muestra_graf.png  used on input line 561.
 (pdftex.def)             Requested size: 469.74701pt x 158.00229pt.
-<tabla_lugar.png, id=168, 401.24907pt x 155.07938pt>
+<tabla_lugar.png, id=197, 401.24907pt x 155.07938pt>
 File: tabla_lugar.png Graphic file (type png)
 <use tabla_lugar.png>
-Package pdftex.def Info: tabla_lugar.png  used on input line 573.
+Package pdftex.def Info: tabla_lugar.png  used on input line 568.
 (pdftex.def)             Requested size: 401.27255pt x 155.08844pt.
-<largo_hist.png, id=169, 828.84656pt x 265.74281pt>
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.16}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.573 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+17}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.573 
+       <./resultados_estadisticos.png> <./muestra_graf.png>]
+<largo_hist.png, id=204, 828.84656pt x 265.74281pt>
 File: largo_hist.png Graphic file (type png)
 <use largo_hist.png>
-Package pdftex.def Info: largo_hist.png  used on input line 581.
+Package pdftex.def Info: largo_hist.png  used on input line 576.
 (pdftex.def)             Requested size: 469.7536pt x 150.61127pt.
-<ancho_hist.png, id=170, 789.70032pt x 265.74281pt>
+<ancho_hist.png, id=205, 789.70032pt x 265.74281pt>
 File: ancho_hist.png Graphic file (type png)
 <use ancho_hist.png>
-Package pdftex.def Info: ancho_hist.png  used on input line 588.
+Package pdftex.def Info: ancho_hist.png  used on input line 583.
 (pdftex.def)             Requested size: 469.751pt x 158.07635pt.
-<diagrama.png, id=171, 708.39656pt x 298.86656pt>
+<diagrama.png, id=206, 678.28406pt x 247.67531pt>
 File: diagrama.png Graphic file (type png)
 <use diagrama.png>
-Package pdftex.def Info: diagrama.png  used on input line 595.
-(pdftex.def)             Requested size: 469.75906pt x 198.1874pt.
-[8 <./transect_linea_R.png (PNG copy)>] [9 <./cambio_playa_Najayo.png (PNG copy
-)>] [10 <./resultados_cambio_lineas.png> <./pendiente_dimension.png (PNG copy)>
-] [11 <./pendiente.png (PNG copy)> <./pendiente_2.png (PNG copy)>] [12 <./indic
-e_concavidad.png (PNG copy)> <./concavo.png (PNG copy)>] [13 <./resultados_esta
-disticos.png> <./muestra_graf.png> <./tabla_lugar.png>] [14 <./largo_hist.png> 
-<./ancho_hist.png> <./diagrama.png>] [15]
-Overfull \hbox (25.56168pt too wide) in paragraph at lines 679--689
+Package pdftex.def Info: diagrama.png  used on input line 590.
+(pdftex.def)             Requested size: 469.75526pt x 171.53105pt.
+[14pdfTeX warning (ext4): destination with the same identifier (name{figure.18}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.594 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+19}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.594 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+20}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.594 
+       <./tabla_lugar.png> <./largo_hist.png> <./ancho_hist.png>] [15pdfTeX war
+ning (ext4): destination with the same identifier (name{figure.21}) has been al
+ready used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.638 
+       <./diagrama.png>]
+Overfull \hbox (25.56168pt too wide) in paragraph at lines 674--684
 \T1/ppl/m/n/10.95 e in-si-s-tir en la im-por-tan-cia de los es-tu-dios de in-ve
 s-ti-gación cien-tí-fica para la gen-eración de conocimiento
  []
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 695.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 700.
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 688.
+[16]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 693.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 701.
-[16]
-Overfull \hbox (560.0685pt too wide) in paragraph at lines 756--756
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 694.
+
+Overfull \hbox (299.78343pt too wide) in paragraph at lines 749--749
 []\T1/cmtt/m/n/10.95 ## Reading layer `najayo-l8-shorelines' from data source `
-/home/analaroja29/unidad-0-asignacion-99-mi-manuscrito-anavalera29/data/najayo-
-l8-shorelines.geojson' using driver `GeoJSON'[] 
+/home/jr/bufferdeana/data/najayo-l8-shorelines.geojson' using driver `GeoJSON'[
+] 
  []
 
 
-Overfull \hbox (543.09338pt too wide) in paragraph at lines 773--773
+Overfull \hbox (282.80832pt too wide) in paragraph at lines 766--766
 []\T1/cmtt/m/n/10.95 ## Reading layer `transectos_lineacosta' from data source 
-`/home/analaroja29/unidad-0-asignacion-99-mi-manuscrito-anavalera29/transectos_
-lineacosta.geojson' using driver `GeoJSON'[] 
+`/home/jr/bufferdeana/transectos_lineacosta.geojson' using driver `GeoJSON'[] 
  []
 
 [17]
-<manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf, id=223, 451.6875pt x 310.
+<manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf, id=229, 451.6875pt x 310.
 15875pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf  u
-sed on input line 824.
+sed on input line 817.
 (pdftex.def)             Requested size: 451.68639pt x 310.15799pt.
-[18 <./manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf>]
-<manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf, id=236, 460.72125pt x 143
+[18] [19 <./manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf>]
+<manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf, id=247, 460.72125pt x 143
 2.35126pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf  u
-sed on input line 867.
+sed on input line 860.
 (pdftex.def)             Requested size: 209.21371pt x 650.43135pt.
-[19] [20 <./manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf>]
-<manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf, id=253, 464.73625pt x 315
+[20] [21 <./manuscrito_files/figure-latex/unnamed-chunk-5-1.pdf>]
+<manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf, id=263, 462.72874pt x 315
 .1775pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf  u
-sed on input line 908.
-(pdftex.def)             Requested size: 464.74928pt x 315.18634pt.
+sed on input line 901.
+(pdftex.def)             Requested size: 462.73466pt x 315.18153pt.
 
-Overfull \hbox (11.99426pt too wide) in paragraph at lines 908--909
+Overfull \hbox (9.97964pt too wide) in paragraph at lines 901--902
 [][] 
  []
 
-[21]
-<manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf, id=258, 409.53pt x 253.94
+[22]
+<manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf, id=268, 409.53pt x 253.94
 875pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf  u
-sed on input line 931.
+sed on input line 924.
 (pdftex.def)             Requested size: 409.54149pt x 253.95586pt.
-[22 <./manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf>]
-<manuscrito_files/figure-latex/unnamed-chunk-6-3.pdf, id=270, 439.6425pt x 286.
+[23 <./manuscrito_files/figure-latex/unnamed-chunk-6-1.pdf>]
+<manuscrito_files/figure-latex/unnamed-chunk-6-3.pdf, id=280, 439.6425pt x 286.
 06876pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-6-3.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-6-3.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-6-3.pdf  u
-sed on input line 943.
+sed on input line 936.
 (pdftex.def)             Requested size: 439.64812pt x 286.07242pt.
-[23 <./manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf> <./manuscrito_files
+[24 <./manuscrito_files/figure-latex/unnamed-chunk-6-2.pdf> <./manuscrito_files
 /figure-latex/unnamed-chunk-6-3.pdf>]
-<manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf, id=291, 439.6425pt x 286.
+<manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf, id=302, 439.6425pt x 286.
 06876pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf  u
-sed on input line 955.
+sed on input line 948.
 (pdftex.def)             Requested size: 439.64812pt x 286.07242pt.
-[24 <./manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf>] [25]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1078.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1078.
+[25 <./manuscrito_files/figure-latex/unnamed-chunk-6-4.pdf>] [26]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1069.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1069.
 (./manuscrito.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1078.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1078.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1069.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1069.
 
 Package rerunfilecheck Info: File `manuscrito.out' has not changed.
-(rerunfilecheck)             Checksum: B5B01E875DA10E6F806B220578D04BC5;3046.
+(rerunfilecheck)             Checksum: 7B5991E47D31C454E537E75BA7825F3A;3273.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1078.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1069.
  ) 
 Here is how much of TeX's memory you used:
- 10592 strings out of 492982
- 150615 string characters out of 6134896
- 225961 words of memory out of 5000000
- 13938 multiletter control sequences out of 15000+600000
+ 10670 strings out of 492982
+ 151719 string characters out of 6134896
+ 226565 words of memory out of 5000000
+ 14007 multiletter control sequences out of 15000+600000
  27998 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,6n,31p,406b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,6n,31p,406b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texliv
 e/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/c
 m-super/sfit1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb
@@ -956,10 +1091,10 @@ m-super/sfit1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb
 mf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
 /palatino/uplri8a.pfb>
-Output written on manuscrito.pdf (25 pages, 20668986 bytes).
+Output written on manuscrito.pdf (26 pages, 15894836 bytes).
 PDF statistics:
- 387 PDF objects out of 1000 (max. 8388607)
- 306 compressed objects within 4 object streams
- 89 named destinations out of 1000 (max. 500000)
- 280 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 397 PDF objects out of 1000 (max. 8388607)
+ 315 compressed objects within 4 object streams
+ 90 named destinations out of 1000 (max. 500000)
+ 296 words of extra memory for PDF output out of 10000 (max. 10000000)
 
